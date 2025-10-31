@@ -420,7 +420,6 @@ Social Science:
 - **LAW**, "Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning". [![arXiv](https://img.shields.io/badge/arXiv-2312.05230-b31b1b.svg)](https://arxiv.org/abs/2312.05230)
 - [⭐️] **Compositional Generative Modeling: A Single Model is Not All You Need**, "Compositional Generative Modeling: A Single Model is Not All You Need". [![arXiv](https://img.shields.io/badge/arXiv-2402.01103-b31b1b.svg)](http://arxiv.org/abs/2402.01103)
 - **Interactive Generative Video as Next-Generation Game Engine**, "Position: Interactive Generative Video as Next-Generation Game Engine". [![arXiv](https://img.shields.io/badge/arXiv-2503.17359-b31b1b.svg)](http://arxiv.org/abs/2503.17359)
-c
 
 ---
 ## Theory & World Models Explainability
@@ -667,6 +666,14 @@ A significant porportion of World Model Algorithms and Techniques stem from the 
 ### 9. World models in other modalities
 - **Graph World Model**, "Graph World Model". [![arXiv](https://img.shields.io/badge/arXiv-2507.10539-b31b1b.svg)](https://arxiv.org/abs/2507.10539) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ulab-uiuc/GWM)
 
+### 10. Memory in World Model
+Implicit Memory:
+- [⭐️] **Context as Memory**, "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-2506.03141-b31b1b.svg)](https://arxiv.org/abs/2506.03141)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://context-as-memory.github.io/).
+- [⭐️] **History-Guided Video Diffusion**, "History-Guided Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2502.03141-06764.svg)](https://arxiv.org/abs/2502.06764)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.boyuan.space/history-guidance/).
+- [⭐️] **Mixture of Contexts for Long Video Generation**, "Mixture of Contexts for Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2508.21058-06764.svg)](https://arxiv.org/abs/2508.21058)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://primecai.github.io/moc/).
+
+Explicit Memory:
+- [⭐️] **WonderWorld**, "WonderWorld: Interactive 3D Scene Generation from a Single Image". [![arXiv](https://img.shields.io/badge/arXiv-2406.09394-06764.svg)](https://arxiv.org/abs/2406.09394)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://kovenyu.com/wonderworld/).
 
 ---
 
