@@ -5,22 +5,19 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers) [![License](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](LICENSE.txt) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**📜 A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Laguage Processing and Agents.**
+**📜 A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Laguage Processing and Agents.** </br>
 *Based on [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model) and [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)*.
 <p align="center">
   <img src="assets/main.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
 *Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-2-5-flash-image)*.
-
 </div>
 
 ---
 
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
-
-<div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 18px 22px; margin: 15px auto; max-width: 90%; max-height: 150px; overflow-y: auto;">
 
 🗺️ **[2025-10] Enhanced Visual Navigation** — Introduced badge system for papers! All entries now display [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](#) [![Website](https://img.shields.io/badge/Website-Link-blue)](#) [![Code](https://img.shields.io/badge/Code-GitHub-green)](#) for quick access to resources.
 
@@ -30,7 +27,6 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
 ⭐ **[Ongoing] Support This Project** — If you find this useful, please [cite](#citation) our work and give us a star. Share with your research community!
 
-</div>
 
 ---
 ## Overview
