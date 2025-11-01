@@ -1130,6 +1130,12 @@ If you find this repository useful, please consider citing this list:
 }
 ```
 ---
+## All Thanks to Our Contributors
+<a href="https://github.com/knightnemo/Awesome-World-Models/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=knightnemo/Awesome-World-Models" />
+</a>
+
+---
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=knightnemo/Awesome-World-Models&type=date&legend=top-left)](https://www.star-history.com/#knightnemo/Awesome-World-Models&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=knightnemo/Awesome-World-Models&type=Date)](https://www.star-history.com/#knightnemo/Awesome-World-Models&Date)
 
