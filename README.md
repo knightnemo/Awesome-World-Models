@@ -238,13 +238,37 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **MagicDrive**: "Street View Generation with Diverse 3D Geometry Control". [![arXiv](https://img.shields.io/badge/arXiv-2310.02601-b31b1b.svg)](https://arxiv.org/abs/2310.02601) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/cure-lab/MagicDrive)
 * **DriveDreamer**: "Towards Real-world-driven World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2309.09777-b31b1b.svg)](https://arxiv.org/abs/2309.09777) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JeffWang987/DriveDreamer)
 * **SEM2**: "Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model". [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10538211/)
----
+
+<!-- inserted -->
+* **COMPARATIVE STUDY OF WORLD MODELS**: "COMPARATIVE STUDY OF WORLD MODELS, NVAE- BASED HIERARCHICAL MODELS, AND NOISYNET- AUGMENTED MODELS IN CARRACING-V2". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Knowledge Graphs as World Models**: "Knowledge Graphs as World Models for Material-Aware Obstacle Handling in Autonomous Vehicles". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Uncertainty Modeling**: "Uncertainty Modeling in Autonomous Vehicle Trajectory Prediction: A Comprehensive Survey". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodelbench.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Divide and Merge**: "Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **RDAR**: "RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+
 ## World Models for Embodied AI
 ### 1. Foundation Embodied World Models
 - [⭐️] **Genie Envisioner**: "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2508.05635-b31b1b.svg)](https://arxiv.org/abs/2508.05635) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://genie-envisioner.github.io/)
 - [⭐️] **WoW**, "WoW: Towards a World omniscient World model Through Embodied Interaction". [![arXiv](https://img.shields.io/badge/arXiv-2509.22642-b31b1b.svg)](https://arxiv.org/abs/2509.22642) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wow-world-model.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wow-world-model/wow-world-model)
 - **UnifoLM-WMA-0**, "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unigen-x.github.io/unifolm-world-model-action.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/unitreerobotics/unifolm-world-model-action/tree/main)
-- [⭐️] **iVideoGPT**, "iVideoGPT: Interactive VideoGPTs are Scalable World Models". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](https://arxiv.org/abs/2405.15223)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://thuml.github.io/iVideoGPT/)
+- [⭐️] **iVideoGPT**, "iVideoGPT: Interactive VideoGPTs are Scalable World Models". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](https://arxiv.org/abs/2405.15223)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://thuml.github.io/iVideoGPT/)<!-- inserted -->
+* **Direct Robot Configuration Space Construction**: "Direct Robot Configuration Space Construction using Convolutional Encoder-Decoders". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **ViPRA**: "ViPRA: Video Prediction for Robot Actions". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **ROPES**: "ROPES: Robotic Pose Estimation via Score-based Causal Representation Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
 
 ### 2. World Models for Manipulation
 - [⭐️] **FLARE**, "FLARE: Robot Learning with Implicit World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2505.15659-b31b1b.svg)](http://arxiv.org/abs/2505.15659) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/flare/)
@@ -308,13 +332,49 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **Video2Action**, "Grounding Video Models to Actions through Goal Conditioned Exploration". [![arXiv](https://img.shields.io/badge/arXiv-2411.07223-b31b1b.svg)](http://arxiv.org/abs/2411.07223) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://video-to-action.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/video-to-action/video-to-action-release)
 - **Diffuser**, "Planning with Diffusion for Flexible Behavior Synthesis". [![arXiv](https://img.shields.io/badge/arXiv-2205.09991-b31b1b.svg)](http://arxiv.org/abs/2205.09991)
 - **Decision Diffuser**, "Is Conditional Generative Modeling all you need for Decision-Making?". [![arXiv](https://img.shields.io/badge/arXiv-2211.15657-b31b1b.svg)](http://arxiv.org/abs/2211.15657)
-- **Potential Based Diffusion Motion Planning**, "Potential Based Diffusion Motion Planning". [![arXiv](https://img.shields.io/badge/arXiv-2407.06169-b31b1b.svg)](http://arxiv.org/abs/2407.06169)
-
-
+- **Potential Based Diffusion Motion Planning**, "Potential Based Diffusion Motion Planning". [![arXiv](https://img.shields.io/badge/arXiv-2407.06169-b31b1b.svg)](http://arxiv.org/abs/2407.06169)<!-- inserted -->
+* **GRIM**: "GRIM: Task-Oriented Grasping with Conditioning on Generative Examples". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **World4Omni**: "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **In-Context Policy Iteration**: "In-Context Policy Iteration for Dynamic Manipulation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **HDFlow**: "HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Robotic Assembly". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Mobile Manipulation with Active Inference**: "Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
-- [⭐️] **MindJourney**: "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney)
+- [⭐️] **MindJourney**: "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney)<!-- inserted -->
+* **Test-Time Scaling**: "Test-Time Scaling with World Models for Spatial Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Scaling Inference-Time Search**: "Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **FalconWing**: "FalconWing: An Ultra-Light Fixed-Wing Platform for Indoor Aerial Applications". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Foundation Models as World Models**: "Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Geosteering Through the Lens of Decision Transformers**: "Geosteering Through the Lens of Decision Transformers: Toward Embodied Sequence Decision-Making". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Latent Weight Diffusion**: "Latent Weight Diffusion: Generating reactive policies instead of trajectories". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Abstract Sim2Real**: "Abstract Sim2Real through Approximate Information States". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **FLAM**: "FLAM: Scaling Latent Action Models with Factorization". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
 - **NavMorph**: "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments". [![arXiv](https://img.shields.io/badge/arXiv-2506.23468-b31b1b.svg)](https://arxiv.org/abs/2506.23468) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Feliciaxyao/NavMorph)
 - **Unified World Models**: "Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation". [![arXiv](https://img.shields.io/badge/arXiv-2510.08713-b31b1b.svg)](https://arxiv.org/abs/2510.08713) [[code](https://github.com/F1y1113/UniWM)]
 - **RECON**, "Rapid Exploration for Open-World Navigation with Latent Goal Models". [![arXiv](https://img.shields.io/badge/arXiv-2104.05859-b31b1b.svg)](http://arxiv.org/abs/2104.05859) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/recon-robot)
@@ -352,8 +412,15 @@ Loco-Manipulation:
 - **Humanoid World Models**: "Humanoid World Models: Open World Foundation Models for Humanoid Robotics". [![arXiv](https://img.shields.io/badge/arXiv-2506.01182-b31b1b.svg)](https://arxiv.org/abs/2506.01182)  
 - **Ego-Agent**, "EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds". [![arXiv](https://img.shields.io/badge/arXiv-2502.05857-b31b1b.svg)](https://arxiv.org/abs/2502.05857)
 - **D^2PO**, "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning" [![arXiv](https://img.shields.io/badge/arXiv-2503.10480-b31b1b.svg)](https://arxiv.org/abs/2503.10480) 
-- **COMBO**: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation. [![arXiv](https://img.shields.io/badge/arXiv-2404.10775-b31b1b.svg)](https://arxiv.org/abs/2404.10775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vis-www.cs.umass.edu/combo/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Foundation-Model/COMBO)
-
+- **COMBO**: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation. [![arXiv](https://img.shields.io/badge/arXiv-2404.10775-b31b1b.svg)](https://arxiv.org/abs/2404.10775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vis-www.cs.umass.edu/combo/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Foundation-Model/COMBO)<!-- inserted -->
+* **Scalable Humanoid Whole-Body Control**: "Scalable Humanoid Whole-Body Control via Differentiable Neural Network Dynamics". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **HuWo**: "HuWo: Building Physical Interaction World Models for Humanoid Robot Locomotion". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Bridging the Sim-to-Real Gap**: "Bridging the Sim-to-Real Gap in Humanoid Dynamics via Learned Nonlinear Operators". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
 
 ### 5. World Models x VLAs
 Unifying World Models and VLAs in one model:
@@ -377,14 +444,45 @@ Combining World Models and VLAs:
 - **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2510.00406-b31b1b.svg)](https://arxiv.org/abs/2510.00406) 
 - **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training". [![arXiv](https://img.shields.io/badge/arXiv-2509.24948-b31b1b.svg)](https://arxiv.org/abs/2509.24948) 
 - [⭐️] **Self-Improving Embodied Foundation Models**, "Self-Improving Embodied Foundation Models". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://arxiv.org/abs/2509.15155)
-- **GigaBrain-0**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2510.19430-b31b1b.svg)](https://arxiv.org/abs/2510.19430) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigabrain0.github.io/)
+- **GigaBrain-0**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2510.19430-b31b1b.svg)](https://arxiv.org/abs/2510.19430) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigabrain0.github.io/)<!-- inserted -->
+* **NinA**: "NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Ada-Diffuser**: "Ada-Diffuser: Latent-Aware Adaptive Diffusion for Decision-Making". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Steering Diffusion Policies**: "Steering Diffusion Policies with Value-Guided Denoising". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SPUR**: "SPUR: Scaling Reward Learning from Human Demonstrations". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **A Smooth Sea Never Made a Skilled SAILOR**: "A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **RADI**: "RADI: LLMs as World Models for Robotic Action Decomposition and Imagination". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
 
 ### 6. World Models x Policy Learning
 This subsection focuses on general policy learning methods in embodied intelligence via leveraging world models.
 - [⭐️] **UWM**, "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets". [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 - [⭐️] **UVA**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ShuangLI59/unified_video_action)
 - **DiWA**, "DiWA: Diffusion Policy Adaptation with World Models". [![arXiv](https://img.shields.io/badge/arXiv-2508.03645-b31b1b.svg)](https://arxiv.org/abs/2508.03645) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://diwa.cs.uni-freiburg.de)
-- [⭐️] **Dreamerv4**, "Training Agents Inside of Scalable World Models". [![arXiv](https://img.shields.io/badge/arXiv-2509.24527-b31b1b.svg)](https://arxiv.org/abs/2509.24527) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/dreamer4/)
+- [⭐️] **Dreamerv4**, "Training Agents Inside of Scalable World Models". [![arXiv](https://img.shields.io/badge/arXiv-2509.24527-b31b1b.svg)](https://arxiv.org/abs/2509.24527) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/dreamer4/)<!-- inserted -->
+* **Latent Action Learning Requires Supervision**: "Latent Action Learning Requires Supervision in the Presence of Distractors". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Beyond Experience**: "Beyond Experience: Fictive Learning as an Inherent Advantage of World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Robotic World Model**: "Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Sim-to-Real Contact-Rich Pivoting**: "Sim-to-Real Contact-Rich Pivoting via Optimization-Guided RL with Vision and Touch". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Hierarchical Task Environments**: "Hierarchical Task Environments as the Next Frontier for Embodied World Models in Robot Soccer". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
 
 ### 7. World Models for Policy evaluation
 Real-world policy evaluation is expensive and noisy. The promise of world models is by accurately capturing environment dynamics, it can serve as a surrogate evaluation environment with high correlation to the policy performance in the real world. Before world models, the role for that was simulators: 
@@ -413,7 +511,43 @@ Social Science:
 - "Social World Model-Augmented Mechanism Design Policy Learning". [![arXiv](https://img.shields.io/badge/arXiv-2510.19270-b31b1b.svg)](https://arxiv.org/abs/2510.19270)
 - **SocioVerse**, "SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users". [![arXiv](https://img.shields.io/badge/arXiv-2504.10157-b31b1b.svg)](http://arxiv.org/abs/2504.10157) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/FudanDISC/SocioVerse)
 
----
+<!-- inserted -->
+* **Effectively Designing 2-Dimensional Sequence Models**: "Effectively Designing 2-Dimensional Sequence Models for Multivariate Time Series". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **A Virtual Reality-Integrated System**: "A Virtual Reality-Integrated System for Behavioral Analysis in Neurological Decline". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **TwinMarket**: "TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Latent Representation Encoding**: "Latent Representation Encoding and Multimodal Biomarkers for Post-Stroke Speech Assessment". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Reconstructing Dynamics**: "Reconstructing Dynamics from Steady Spatial Patterns with Partial Observations". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **SP: Learning Physics from Sparse Observations**: "SP: Learning Physics from Sparse Observations — Three Pitfalls of PDE-Constrained Diffusion Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SP: Continuous Autoregressive Generation**: "SP: Continuous Autoregressive Generation with Mixture of Gaussians". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **EquiReg**: "EquiReg: Symmetry-Driven Regularization for Physically Grounded Diffusion-based Inverse Solvers". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Neural Modular World Model**: "Neural Modular World Model". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Bidding for Influence**: "Bidding for Influence: Auction-Driven Diffusion Image Generation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **PINT**: "PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **HEP-JEPA**: "HEP-JEPA: A foundation model for collider physics". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+
 ## Positions on World Models
 - [⭐️] **Video as the New Language for Real-World Decision Making**, "Video as the New Language for Real-World Decision Making". [![arXiv](https://img.shields.io/badge/arXiv-2402.17139-b31b1b.svg)](https://arxiv.org/abs/2402.17139)
 - [⭐️] **Critiques of World Models**, "Critiques of World Models". [![arXiv](https://img.shields.io/badge/arXiv-2507.05169-b31b1b.svg)](https://arxiv.org/abs/2507.05169)
@@ -421,7 +555,25 @@ Social Science:
 - [⭐️] **Compositional Generative Modeling: A Single Model is Not All You Need**, "Compositional Generative Modeling: A Single Model is Not All You Need". [![arXiv](https://img.shields.io/badge/arXiv-2402.01103-b31b1b.svg)](http://arxiv.org/abs/2402.01103)
 - **Interactive Generative Video as Next-Generation Game Engine**, "Position: Interactive Generative Video as Next-Generation Game Engine". [![arXiv](https://img.shields.io/badge/arXiv-2503.17359-b31b1b.svg)](http://arxiv.org/abs/2503.17359)
 
----
+<!-- inserted -->
+* **A Proposal for Networks Capable of Continual Learning**: "A Proposal for Networks Capable of Continual Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Towards Unified Expressive Policy Optimization**: "Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Learning Intuitive Physics**: "Opinion: Learning Intuitive Physics Requires More Than Visual Data". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **A Unified World Model**: "Opinion: A Unified World Model is the cornerstone for integrating perception, reasoning, and decision-making in embodied AI". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Small VLAs**: "Opinion: Small VLAs Self-Learn Consistency". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **How Can Causal AI Benefit World Models?**: "Opinion: How Can Causal AI Benefit World Models?". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+
 ## Theory & World Models Explainability
 - [⭐️] **General agents Contain World Models**, "General agents contain world models". [![arXiv](https://img.shields.io/badge/arXiv-2506.01622-b31b1b.svg)](https://arxiv.org/abs/2506.01622)
 - [⭐️] **When Do Neural Networks Learn World Models?** "When Do Neural Networks Learn World Models?" [![arXiv](https://img.shields.io/badge/arXiv-2502.09297-b31b1b.svg)](https://arxiv.org/abs/2502.09297)
@@ -437,8 +589,13 @@ Social Science:
 - [⭐️] **Transformers Use Causal World Models**, "Transformers Use Causal World Models in Maze-Solving Tasks". [![arXiv](https://img.shields.io/badge/arXiv-2412.11867-b31b1b.svg)](https://arxiv.org/abs/2412.11867)
 - [⭐️] **Causal World Model inside NTP**, "A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment". [![arXiv](https://img.shields.io/badge/arXiv-2412.07446-b31b1b.svg)](https://arxiv.org/abs/2412.07446)
 
+<!-- inserted -->
+* **When do neural networks learn world models?**: "When do neural networks learn world models?". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Utilizing World Models**: "Utilizing World Models for Adaptively Covariate Acquisition Under Limited Budget for Causal Decision Making Problem". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
 
----
 ## General Approaches to World Models
 ### 1. Foundation World Models
 
@@ -467,7 +624,36 @@ World-Lab Projects:
 
 Other Awesome Models:
 - [⭐️] **Pandora**, "Pandora: Towards General World Model with Natural Language Actions and Video States". [![arXiv](https://img.shields.io/badge/arXiv-2406.09455-b31b1b.svg)](https://arxiv.org/abs/2406.09455) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/maitrix-org/Pandora)
-- [⭐️] **UniSim**, "UniSim: Learning Interactive Real-World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2310.06114-b31b1b.svg)](https://arxiv.org/abs/2310.06114) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-simulator.github.io/unisim/)
+- [⭐️] **UniSim**, "UniSim: Learning Interactive Real-World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2310.06114-b31b1b.svg)](https://arxiv.org/abs/2310.06114) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-simulator.github.io/unisim/)<!-- inserted -->
+* **Masked Generative Priors**: "Masked Generative Priors Improve World Models Sequence Modelling Capabilities". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Recurrent world model**: "Recurrent world model with tokenized latent states". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Mixture-of-Transformers**: "Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Mixture-of-Mamba**: "Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Improving World Models**: "Improving World Models using Supervision with Co-Evolving Linear Probes". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **MS-SSM**: "MS-SSM: A Multi-Scale State Space Model for Enhanced Sequence Modeling". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Fixed-Point RNNs**: "Fixed-Point RNNs: From Diagonal to Dense in a Few Iterations". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **ACDiT**: "ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **FPAN**: "FPAN: Mitigating Replication in Diffusion Models through the Fine-Grained Probabilistic Addition of Noise to Token Embeddings". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodelbench.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SPARTAN**: "SPARTAN: A Sparse Transformer World Model Attending to What Matters". [![arXiv](https://img.shields.io/badge/arXiv-2411.06890-b31b1b.svg)](https://arxiv.org/abs/2411.06890) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept)
+<!-- end inserted -->
 
 ### 2. Building World Models from 2D Vision Priors
 The represents a "bottom-up" approach to achieving intelligence, sensorimotor before abstraction. In the 2D pixel space, world models often build upon pre-existing image/video generation approaches.
@@ -512,8 +698,45 @@ Pixel Space World Models:
 - "Video World Models with Long-term Spatial Memory". [![arXiv](https://img.shields.io/badge/arXiv-2506.05284-b31b1b.svg)](https://arxiv.org/abs/2506.05284) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://spmem.github.io/)
 - **VRAG**, "Learning World Models for Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2505.21996-b31b1b.svg)](https://arxiv.org/abs/2505.21996) 
 - **DRAW**, "Adapting World Models with Latent-State Dynamics Residuals". [![arXiv](https://img.shields.io/badge/arXiv-2504.02252-b31b1b.svg)](https://arxiv.org/abs/2504.02252)
-- **ForeDiff**, "Consistent World Models via Foresight Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2505.16474-b31b1b.svg)](https://arxiv.org/abs/2505.16474) 
-
+- **ForeDiff**, "Consistent World Models via Foresight Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2505.16474-b31b1b.svg)](https://arxiv.org/abs/2505.16474)<!-- inserted -->
+* **Distribution Recovery**: "Distribution Recovery in Compact Diffusion World Models via Conditioned Frame Interpolation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **EmbodiedScene**: "EmbodiedScene: Towards Automated Generation of Diverse and Realistic Scenes for Embodied AI". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **BEYOND SINGLE-STEP**: "BEYOND SINGLE-STEP: MULTI-FRAME ACTION- CONDITIONED VIDEO GENERATION FOR REINFORCE- MENT LEARNING ENVIRONMENTS". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Adaptive Attention-Guided Masking**: "Adaptive Attention-Guided Masking in Vision Transformers for Self-Supervised Hyperspectral Feature Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodelbench.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Implicit State Estimation**: "Implicit State Estimation via Video Replanning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Enhancing Long Video Generation Consistency**: "Enhancing Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Can Image-To-Video Models Simulate Pedestrian Dynamics?**: "Can Image-To-Video Models Simulate Pedestrian Dynamics?". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Eyes of the DINO**: "Eyes of the DINO: Learning Physical World Models from Uncurated Web Videos". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Video Self-Distillation**: "Video Self-Distillation for Single-Image Encoders: A Step Toward Physically Plausible Perception". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Learning Skill Abstraction**: "Learning Skill Abstraction from Action-Free Videos via Optical Flow". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **CRISP**: "CRISP: Contact-guided Real2Sim from Monocular Video with Planar Scene Primitives". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Whole-Body Conditioned Egocentric Video Prediction**: "Whole-Body Conditioned Egocentric Video Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2506.21552-b31b1b.svg)](https://arxiv.org/abs/2506.21552) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/RIWM_Non_Archival#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dannytran123.github.io/PEVA/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Taming generative world models**: "Taming generative world models for zero-shot optical flow extraction". [![arXiv](https://img.shields.io/badge/arXiv-2507.09082-b31b1b.svg)](https://arxiv.org/abs/2507.09082) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/RIWM_Non_Archival#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://neuroailab.github.io/projects/kl_tracing/)
+<!-- end inserted -->
 
 ### 3. Building World Models from 3D Vision Priors
 3D Mesh is also a useful representaiton of the physical world, including benefits such as spatial consistency.
@@ -526,8 +749,18 @@ Pixel Space World Models:
 - [⭐️] **Aether**: "Aether: Geometric-Aware Unified World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2503.18945-b31b1b.svg)](https://arxiv.org/abs/2503.18945) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aether-world.github.io/)
 - **HERO**: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models". [![arXiv](https://img.shields.io/badge/arXiv-2508.17588-b31b1b.svg)](https://arxiv.org/abs/2508.17588)
 - **UrbanWorld**: "UrbanWorld: An Urban World Model for 3D City Generation". [![arXiv](https://img.shields.io/badge/arXiv-2407.11965-b31b1b.svg)](https://arxiv.org/abs/2407.11965)
-- **DeepVerse**: "DeepVerse: 4D Autoregressive Video Generation as a World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](https://arxiv.org/abs/2506.01103)
-
+- **DeepVerse**: "DeepVerse: 4D Autoregressive Video Generation as a World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](https://arxiv.org/abs/2506.01103)<!-- inserted -->
+* **EnerVerse-AC**: "EnerVerse-AC: Envisioning Embodied Environments with Action Condition". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Adapting a World Model**: "Adapting a World Model for Trajectory Following in a 3D Game". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **SteerX**: "SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodelbench.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SP- PhysicsNeRF**: "SP- PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
 
 ### 4. Building World Models from Language Priors
 The represents a "top-down" approach to achieving intelligence, abstraction before sensorimotor.
@@ -582,7 +815,70 @@ A recent trend of work is bridging highly-compressed semantic tokens (e.g. langu
 
 - [⭐️] **VAGEN**, "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents". [![arXiv](https://img.shields.io/badge/arXiv-2510.16907-b31b1b.svg)](https://arxiv.org/abs/2510.16907) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://mll.lab.northwestern.edu/VAGEN/) 
 - [⭐️] **Semantic World Models**, "Semantic World Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.19818-b31b1b.svg)](https://arxiv.org/abs/2510.19818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/swm) 
-- **DyVA**: "Can World Models Benefit VLMs for World Dynamics?". [![arXiv](https://img.shields.io/badge/arXiv-2510.00855-b31b1b.svg)](https://arxiv.org/abs/2510.00855) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dyva-worldlm.github.io) 
+- **DyVA**: "Can World Models Benefit VLMs for World Dynamics?". [![arXiv](https://img.shields.io/badge/arXiv-2510.00855-b31b1b.svg)](https://arxiv.org/abs/2510.00855) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dyva-worldlm.github.io)<!-- inserted -->
+* **From Foresight to Forethought**: "From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **SEAL**: "SEAL: SEmantic-Augmented Imitation Learning via Language Model". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Programmatic Video Prediction**: "Programmatic Video Prediction Using Large Language Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Emergent Stack Representations**: "Emergent Stack Representations in Modeling Counter Languages Using Transformers". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **DIALOGUES BETWEEN ADAM AND EVE**: "DIALOGUES BETWEEN ADAM AND EVE: EXPLORATION OF UNKNOWN CIVILIZATION LANGUAGE BY LLM". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Memory Helps, but Confabulation Misleads**: "Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Reframing LLM Finetuning**: "Reframing LLM Finetuning Through the Lens of Bayesian Optimization". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **TrajEvo**: "TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **CCC**: "CCC: Enhancing Video Generation via Structured MLLM Feedback". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **VLA-OS**: "VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **LLM-Guided Probabilistic Program Induction**: "LLM-Guided Probabilistic Program Induction for POMDP Model Estimation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Decoupled Planning and Execution**: "Decoupled Planning and Execution with LLM-Driven World Models for Efficient Task Planning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **The Physical Basis of Prediction**: "The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Avi**: "Avi: A 3D Vision-Language Action Model Architecture generating Action from Volumetric Inference". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Plan Verification**: "Plan Verification for LLM-Based Embodied Task Completion Agents". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SpatialThinker**: "SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **How Foundational Skills Influence VLM-based Embodied Agents**: "How Foundational Skills Influence VLM-based Embodied Agents: A Native Perspective". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Towards Fine-tuning a Small Vision-Language Model**: "Towards Fine-tuning a Small Vision-Language Model for Aerial Navigation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Improvisational Reasoning**: "Improvisational Reasoning with Vision-Language Models for Grounded Procedural Planning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Vision-Language Reasoning for Burn Depth Assessment**: "Vision-Language Reasoning for Burn Depth Assessment with Structured Diagnostic Hypotheses". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **WALL-E**: "WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents". [![arXiv](https://img.shields.io/badge/arXiv-2504.15785-b31b1b.svg)](https://arxiv.org/abs/2504.15785) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/elated-sawyer/WALL-E)
+<!-- end inserted -->
+
 ### 6. Latent Space World Models
 While learning in the observation space (pixel, 3D mesh, language, etc.) is a common approach, for many applications (planning, policy evaluation, etc.) learning in latent space is sufficient or is believed to lead to even better performace.
 - [⭐️] **DINO-WM**, "DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning". [![arXiv](https://img.shields.io/badge/arXiv-2411.04983-b31b1b.svg)](https://arxiv.org/abs/2411.04983) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dino-wm.github.io/)
@@ -610,7 +906,18 @@ JEPA is a special kind of learning in latent space, where the loss is put on the
 - **COMET**, "Compete and Compose: Learning Independent Mechanisms for Modular World Models".  [![arXiv](https://img.shields.io/badge/arXiv-2404.15109-b31b1b.svg)](https://arxiv.org/abs/2404.15109)
 - **FPTT**, "Transformers and Slot Encoding for Sample Efficient Physical World Modelling". [![arXiv](https://img.shields.io/badge/arXiv-2405.20180-b31b1b.svg)](https://arxiv.org/abs/2405.20180) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/torchipeppo/transformers-and-slot-encoding-for-wm)
 - "Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction". [![arXiv](https://img.shields.io/badge/arXiv-2408.11816-b31b1b.svg)](https://arxiv.org/abs/2408.11816)
-- **OC-STORM**, "Objects matter: object-centric world models improve reinforcement learning in visually complex environments". [![arXiv](https://img.shields.io/badge/arXiv-2501.16443-b31b1b.svg)](https://arxiv.org/abs/2501.16443)
+- **OC-STORM**, "Objects matter: object-centric world models improve reinforcement learning in visually complex environments". [![arXiv](https://img.shields.io/badge/arXiv-2501.16443-b31b1b.svg)](https://arxiv.org/abs/2501.16443)<!-- inserted -->
+* **Object-Centric Latent Action Learning**: "Object-Centric Latent Action Learning". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Unifying Causal and Object-centric Representation Learning**: "Unifying Causal and Object-centric Representation Learning allows Causal Composition". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Object-Centric Representations**: "Object-Centric Representations Generalize Better Compositionally with Less Compute". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Object-Centric Latent Action Learning**: "Object-Centric Latent Action Learning". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
 
 ### 7. Post-training and Inference-Time Scaling for World Models
 - [⭐️] **RLVR-World**: "RLVR-World: Training World Models with Reinforcement Learning". [![arXiv](https://img.shields.io/badge/arXiv-2505.13934-b31b1b.svg)](https://arxiv.org/abs/2505.13934) [[Website]( https://thuml.github.io/RLVR-World/)] [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thuml/RLVR-World)
@@ -661,7 +968,72 @@ A significant porportion of World Model Algorithms and Techniques stem from the 
 - **EvoAgent**: "EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks". [![arXiv](https://img.shields.io/badge/arXiv-2502.05907-b31b1b.svg)](https://arxiv.org/abs/2502.05907)
 - **GLIMO**: "Grounding Large Language Models In Embodied Environment With Imperfect World Models". [![arXiv](https://img.shields.io/badge/arXiv-2410.02664-b31b1b.svg)](https://arxiv.org/abs/2410.02664)
 - **Energy-based Transition Models**, "Offline Transition Modeling via Contrastive Energy Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=dqpg8jdA2w&referrer=%5Bthe%20profile%20of%20Yang%20Yu%5D(%2Fprofile%3Fid%3D~Yang_Yu5)) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Ruifeng-Chen/Energy-Transition-Models)
-- **PCM**, "Policy-conditioned Environment Models are More Generalizable". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=g9mYBdooPA&referrer=%5Bthe%20profile%20of%20Yang%20Yu%5D(%2Fprofile%3Fid%3D~Yang_Yu5)) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://policy-conditioned-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xionghuichen/policy-conditioned-model)
+- **PCM**, "Policy-conditioned Environment Models are More Generalizable". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=g9mYBdooPA&referrer=%5Bthe%20profile%20of%20Yang%20Yu%5D(%2Fprofile%3Fid%3D~Yang_Yu5)) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://policy-conditioned-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xionghuichen/policy-conditioned-model)<!-- inserted -->
+* **Temporal Difference Flows**: "Temporal Difference Flows". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Improving Transformer World Models**: "Improving Transformer World Models for Data-Efficient RL". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Accelerating Goal-Conditioned RL**: "Accelerating Goal-Conditioned RL Algorithms and Research". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **LEARNING FROM LESS**: "LEARNING FROM LESS: SINDY SURROGATES IN RL". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Combining Unsupervised and Offline RL**: "Combining Unsupervised and Offline RL via World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **World Models as Reference Trajectories**: "World Models as Reference Trajectories for Rapid Motor Adaptation". [![arXiv](https://img.shields.io/badge/arXiv-2505.15589-b31b1b.svg)](https://arxiv.org/abs/2505.15589) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept)
+<!-- end inserted -->
+<!-- inserted -->
+* **Stress-Testing Offline Reward-Free Reinforcement Learning**: "Stress-Testing Offline Reward-Free Reinforcement Learning: A Case for Planning with Latent Dynamics Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Decentralized Transformers with Centralized Aggregation**: "Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Model-based Offline Reinforcement Learning**: "Model-based Offline Reinforcement Learning with Lower Expectile Q-Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **BiD**: "BiD: Behavioral Agents in Dynamic Auctions". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Pushing the Limit**: "Pushing the Limit of Sample-Efficient Offline Reinforcement Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Learning from Reward-Free Offline Data**: "Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **SP: JEPA-WMs**: "SP: JEPA-WMs: On Planning with Joint-Embedding Predictive World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **DAWM**: "DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Revisiting Multi-Agent World Modeling**: "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Communicating Plans, Not Percepts**: "Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Exploring exploration**: "Exploring exploration with foundation agents in interactive environments". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Adversarial Diffusion**: "Adversarial Diffusion for Robust Reinforcement Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Learning to Focus**: "Learning to Focus: Prioritizing Informative Histories with Structured Attention Mechanisms in Partially Observable Reinforcement Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **PolicyGRID**: "PolicyGRID: Acting to Understand, Understanding to Act". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Stable Planning**: "Stable Planning through Aligned Representations in Model-Based Reinforcement Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective**: "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
 
 ### 9. World models in other modalities
 - **Graph World Model**, "Graph World Model". [![arXiv](https://img.shields.io/badge/arXiv-2507.10539-b31b1b.svg)](https://arxiv.org/abs/2507.10539) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ulab-uiuc/GWM)
@@ -713,9 +1085,29 @@ World Models in other modalities:
 
 
 
+Physically Plausible World Models:
+<!-- inserted -->
+* **Newton**: "Newton - A Small Benchmark for Interactive Foundation World Models". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **Text2World**: "Text2World: Benchmarking World Modeling Capabilities of Large Language Models via Program Synthesis". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+<!-- end inserted -->
+<!-- inserted -->
+* **AetherVision-Bench**: "AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodelbench.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **VideoPhy-2**: "VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **A Comprehensive Evaluation**: "A Comprehensive Evaluation of Physical Realism in Text-to-Video Models". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **ScenePhys**: "ScenePhys — Controllable Physics Videos for World-Model Evaluation". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
+* **OpenGVL**: "OpenGVL - Benchmarking Visual Temporal Progress for Data Curation". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+<!-- end inserted -->
 
-
----
 ## Acknowledgements
 This project is largely built on the foundations laid by:
 - 🕶️ [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models
