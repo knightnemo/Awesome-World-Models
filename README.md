@@ -435,7 +435,8 @@ Unifying World Models and VLAs in one model:
 - "Latent Action Pretraining Through World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2509.18428-b31b1b.svg)](https://arxiv.org/abs/2509.18428) 
 - [⭐️] **UniVLA**: "UniVLA: Unified Vision-Language-Action Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://robertwyq.github.io/univla.github.)
 - [⭐️] **dVLA**, "dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought". [![arXiv](https://img.shields.io/badge/arXiv-2509.25681-b31b1b.svg)](https://arxiv.org/abs/2509.25681)
-- [⭐️] **Vidar**, "Vidar: Embodied Video Diffusion Model for Generalist Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2507.12898-b31b1b.svg)](https://arxiv.org/pdf/2507.12898) 
+- [⭐️] **Vidar**, "Vidar: Embodied Video Diffusion Model for Generalist Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2507.12898-b31b1b.svg)](https://arxiv.org/pdf/2507.12898)
+- [⭐️] **UD-VLA**, "Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process". [![arXiv](https://img.shields.io/badge/arXiv-2511.01718-b31b1b.svg)](https://arxiv.org/abs/2511.01718) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenHelix-Team/UD-VLA) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://irpn-eai.github.io/UD-VLA.github.io/)
 - **Goal-VLA**: "Goal-VLA: Image-Generative VLMs as Object-Centric World Models Empowering Zero-shot Robot Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2506.23919-b31b1b.svg)](https://arxiv.org/abs/2506.23919) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nus-lins-lab.github.io/goalvlaweb/)
 
 
