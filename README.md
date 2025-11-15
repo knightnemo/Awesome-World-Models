@@ -444,7 +444,7 @@ Combining World Models and VLAs:
 - [⭐️] **Ctrl-World**: "Ctrl-World: A Controllable Generative World Model for Robot Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2510.10125-b31b1b.svg)](https://arxiv.org/pdf/2510.10125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ctrl-world.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robert-gyj/Ctrl-World)
 - **VLA-RFT**: "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2510.00406-b31b1b.svg)](https://arxiv.org/abs/2510.00406) 
 - **World-Env**: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training". [![arXiv](https://img.shields.io/badge/arXiv-2509.24948-b31b1b.svg)](https://arxiv.org/abs/2509.24948) 
-- [⭐️] **Self-Improving Embodied Foundation Models**, "Self-Improving Embodied Foundation Models". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://arxiv.org/abs/2509.15155)
+- [⭐️] **Self-Improving Embodied Foundation Models**, "Self-Improving Embodied Foundation Models". [![arXiv](https://img.shields.io/badge/arXiv-2509.15155-b31b1b.svg)](https://arxiv.org/abs/2509.15155)
 - **GigaBrain-0**, GigaBrain-0: A World Model-Powered Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2510.19430-b31b1b.svg)](https://arxiv.org/abs/2510.19430) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigabrain0.github.io/)<!-- inserted -->
 * **NinA**: "NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
@@ -462,6 +462,8 @@ Combining World Models and VLAs:
 <!-- end inserted -->
 <!-- inserted -->
 * **RADI**: "RADI: LLMs as World Models for Robotic Action Decomposition and Imagination". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
+- **WMPO**: "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2511.09515-b31b1b.svg)](https://arxiv.org/abs/2511.09515) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wm-po.github.io)
+
 <!-- end inserted -->
 
 ### 6. World Models x Policy Learning
@@ -492,6 +494,7 @@ Real-world policy evaluation is expensive and noisy. The promise of world models
 For World Model Evaluation:
 - [⭐️] **WorldGym**, "WorldGym: Evaluating Robot Policies in a World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.00613-b31b1b.svg)](https://arxiv.org/abs/2506.00613) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-model-eval.github.io)
 - [⭐️] **WorldEval**: "WorldEval: World Model as Real-World Robot Policies Evaluator". [![arXiv](https://img.shields.io/badge/arXiv-2505.19017-b31b1b.svg)](https://arxiv.org/abs/2505.19017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldeval.github.io)
+- [⭐️] **WoW!**: "WOW!: World Models in a Closed-Loop World". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/pdf/e6aed49462d9e080633e727436cc95a0a8d61c57.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wow202509.github.io/WOW_project_page/)
 - **Cosmos-Surg-dVRK**: "Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning". [![arXiv](https://img.shields.io/badge/arXiv-2510.16240-b31b1b.svg)](https://arxiv.org/abs/2510.16240)
 ---
 
