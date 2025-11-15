@@ -605,6 +605,7 @@ Interactive Video Generation:
 - [⭐️] **Genie 3**, "Genie 3: A new frontier for world models". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [⭐️] **V-JEPA 2**, "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning". [![arXiv](https://img.shields.io/badge/arXiv-2506.09985-b31b1b.svg)](https://arxiv.org/abs/2506.09985) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/vjepa2)
 - [⭐️] **Cosmos Predict 2.5 & Cosmos Transfer 2.5**, "Cosmos Predict 2.5 & Transfer 2.5: Evolving the World Foundation Models for Physical AI". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://huggingface.co/blog/nvidia/cosmos-predict-and-transfer2-5)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)
+- [⭐️] **PAN**, "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation".  [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b.svg)](https://arxiv.org/abs/2511.09057) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://panworld.ai/)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
