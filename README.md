@@ -613,6 +613,7 @@ Interactive Video Generation:
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
 - [⭐️] **Marble**, "Generating Bigger and Better Worlds". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/bigger-better-worlds)
+- [⭐️] **WorldGen**, "WorldGen: From Text to Traversable and Interactive 3D Worlds". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research) [![OpenReview](https://img.shields.io/badge/Paper-8E44AD.svg)](https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwEUbcRV&_nc_oc=AdkyeBfeCoX5Y2sIxaeN_wzTJOo3BvhPhYFDsCuN2XdGW60PPHW5-cPauGTZ7kjcmN6LymJ7ZXAcfyjoy5mlGra1&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=3tX278lz5_LpF7k9qDsxvQ&oh=00_Afjv87PRMbBTzjkRBOHUekl_YD8a0iIEvaJu8RrnvKr7vg&oe=6926DA80)
 #### Classics:
 Genie Series:
 - [⭐️] **Genie 2**, "Genie 2: A Large-Scale Foundation World Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
