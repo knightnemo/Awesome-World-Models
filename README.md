@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers) [![License](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](LICENSE.txt) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**📜 A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Laguage Processing and Agents.** </br>
+**📜 A Curated List of Amazing Works in World Modeling, spanning applications in Embodied AI, Autonomous Driving, Natural Language Processing and Agents.** </br>
 *Based on [Awesome-World-Model-for-Autonomous-Driving](https://github.com/LMD0311/Awesome-World-Model) and [Awesome-World-Model-for-Robotics](https://github.com/leofan90/Awesome-World-Models)*.
 <p align="center">
   <img src="assets/main.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
@@ -105,6 +105,7 @@ Some other great blogposts on world models include:
 - **The Safety Challenge of World Models**, "The Safety Challenge of World Models for Embodied AI Agents: A Review". [![arXiv](https://img.shields.io/badge/arXiv-2510.05865-b31b1b.svg)](https://arxiv.org/abs/2510.05865)
 - **World Models in AI: Like a Child**, "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child". [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)
 - **World Model Safety**, "World Models: The Safety Perspective". [![arXiv](https://img.shields.io/badge/arXiv-2411.07690-b31b1b.svg)](https://arxiv.org/abs/2411.07690)
+- **Model-based reinforcement learning**: "A survey on model-based reinforcement learning".  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://link.springer.com/article/10.1007/s11432-022-3696-5)
 
 ---
 
@@ -131,7 +132,7 @@ Pixel Space:
 _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 
 > [!NOTE]
-> 📢 [Call for Maintaince] The repo creator is no expert of autonomous driving, so this is a more-than-concise list of works without classification. We anticipate community effort on turning this section cleaner and more well-sorted.
+> 📢 [Call for Maintenance] The repo creator is no expert of autonomous driving, so this is a more-than-concise list of works without classification. We anticipate community effort on turning this section cleaner and more well-sorted.
 
 - [⭐️] **Cosmos-Drive-Dreams**, "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models". [![arXiv](https://img.shields.io/badge/arXiv-2506.09042-b31b1b.svg)](https://arxiv.org/abs/2506.09042) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)
 - [⭐️] **GAIA-2**, "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wayve.ai/thinking/gaia-2)
@@ -188,7 +189,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **GEM**: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control". [![arXiv](https://img.shields.io/badge/arXiv-2412.11198-b31b1b.svg)](https://arxiv.org/abs/2412.11198) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vita-epfl.github.io/GEM.github.io/)
 * **GaussianWorld**: "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2412.04380-b31b1b.svg)](https://arxiv.org/abs/2412.04380) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zuosc19/GaussianWorld)
 * **Doe-1**: "Doe-1: Closed-Loop Autonomous Driving with Large World Model". [![arXiv](https://img.shields.io/badge/arXiv-2412.09627-b31b1b.svg)](https://arxiv.org/abs/2412.09627) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wzzheng.net/Doe/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wzzheng/Doe)
-* "Pysical Informed Driving World Model". [![arXiv](https://img.shields.io/badge/arXiv-2412.08410-b31b1b.svg)](https://arxiv.org/abs/2412.08410) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
+* "Physical Informed Driving World Model". [![arXiv](https://img.shields.io/badge/arXiv-2412.08410-b31b1b.svg)](https://arxiv.org/abs/2412.08410) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
 * **InfiniCube**: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03934-b31b1b.svg)](https://arxiv.org/abs/2412.03934) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/toronto-ai/infinicube/)
 * **InfinityDrive**: "InfinityDrive: Breaking Time Limits in Driving World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.01522-b31b1b.svg)](https://arxiv.org/abs/2412.01522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)
 * **ReconDreamer**: "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration". [![arXiv](https://img.shields.io/badge/arXiv-2411.19548-b31b1b.svg)](https://arxiv.org/abs/2411.19548) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://recondreamer.github.io/)
@@ -298,7 +299,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - [⭐️] **ParticleFormer**: "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2506.23126-b31b1b.svg)](https://arxiv.org/abs/2506.23126) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://particleformer.github.io/)
 - **ManiGaussian++**: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.19842-b31b1b.svg)](https://arxiv.org/abs/2506.19842) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/April-Yz/ManiGaussian_Bimanual)
 - **ReOI**: "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control". [![arXiv](https://img.shields.io/badge/arXiv-2506.16565-b31b1b.svg)](https://arxiv.org/abs/2506.16565) 
-- **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Mlanipulation". [![arXiv](https://img.shields.io/badge/arXiv-2506.14135-b31b1b.svg)](https://arxiv.org/abs/2506.14135) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://chaiying1.github.io/GAF.github.io/project_page/)
+- **GAF**: "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2506.14135-b31b1b.svg)](https://arxiv.org/abs/2506.14135) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://chaiying1.github.io/GAF.github.io/project_page/)
 - "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins". [![arXiv](https://img.shields.io/badge/arXiv-2506.13761-b31b1b.svg)](https://arxiv.org/abs/2506.13761) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://prompting-with-the-future.github.io/)
 - "Time-Aware World Model for Adaptive Prediction and Control". [![arXiv](https://img.shields.io/badge/arXiv-2506.08441-b31b1b.svg)](https://arxiv.org/abs/2506.08441) 
 - [⭐️] **3DFlowAction**: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.06199-b31b1b.svg)](https://arxiv.org/abs/2506.06199) 
@@ -1042,6 +1043,29 @@ A significant porportion of World Model Algorithms and Techniques stem from the 
 <!-- inserted -->
 * **Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective**: "Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
 <!-- end inserted -->
+
+
+<!-- inserted -->
+* **JOWA**: "Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=T1OvCSFaum)  [![Code](https://img.shields.io/badge/Code-GitHub-green)]( https://github.com/CJReinforce/JOWA)
+<!-- end inserted -->
+
+<!-- inserted -->
+* **LS-Imagine**: "Open-World Reinforcement Learning over Long Short-Term Imagination". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=vzItLaEoDa) 
+<!-- end inserted -->
+
+
+<!-- inserted -->
+* **TWISTER**: "Learning Transformer-based World Models with Contrastive Predictive Coding". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=YK9G4Htdew) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/burchim/TWISTER)
+<!-- end inserted -->
+
+<!-- inserted -->
+* **WAKER**: "Reward-Free Curricula for Training Robust World Models". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=eCGpNGDeNu) 
+<!-- end inserted -->
+
+<!-- inserted -->
+* **THICK**: "Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/forum?id=TjCDNssXKU)  [![Code](https://img.shields.io/badge/Code-GitHub-green)]( https://github.com/CognitiveModeling/THICK)
+<!-- end inserted -->
+
 
 ### 9. World models in other modalities
 - **Graph World Model**, "Graph World Model". [![arXiv](https://img.shields.io/badge/arXiv-2507.10539-b31b1b.svg)](https://arxiv.org/abs/2507.10539) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ulab-uiuc/GWM)
