@@ -19,6 +19,8 @@
 ## 🚩 News & Updates
 _Major updates and announcements are shown below. Scroll for full timeline._
 
+🚀 **[2025-11] 1k+ Stars ⭐️ Under 30 Days** — 🌍 [Awesome World Models](https://github.com/knightnemo/Awesome-World-Models) reached 1k github stars within 30 days of initial release, let's go!!!
+
 🗺️ **[2025-10] Enhanced Visual Navigation** — Introduced badge system for papers! All entries now display [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](#) [![Website](https://img.shields.io/badge/Website-Link-blue)](#) [![Code](https://img.shields.io/badge/Code-GitHub-green)](#) for quick access to resources.
 
 🔥 **[2025-10] Repository Launch** — Awesome World Models is now live! We're building a comprehensive collection spanning Embodied AI, Autonomous Driving, NLP, and more. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
