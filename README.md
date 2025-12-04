@@ -124,6 +124,7 @@ Pixel Space:
 - **GameFactory**, "GameFactory: Creating New Games with Generative Interactive Videos". [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](http://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/GameFactory)
 - **WORLDMEM**, "Worldmem: Long-term Consistent World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](http://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
 
+
 3D Mesh Space:
 - [⭐️] **HunyuanWorld 1.0**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b.svg)](https://arxiv.org/abs/2507.21809) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 - [⭐️] **Matrix-3D**, Matrix-3D: Omnidirectional Explorable 3D World Generation. [![arXiv](https://img.shields.io/badge/arXiv-2508.08086-b31b1b.svg)](https://arxiv.org/abs/2508.08086) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-3d.github.io)
@@ -1077,6 +1078,7 @@ Implicit Memory:
 - [⭐️] **Context as Memory**, "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-2506.03141-b31b1b.svg)](https://arxiv.org/abs/2506.03141)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://context-as-memory.github.io/).
 - [⭐️] **History-Guided Video Diffusion**, "History-Guided Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2502.03141-06764.svg)](https://arxiv.org/abs/2502.06764)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.boyuan.space/history-guidance/).
 - [⭐️] **Mixture of Contexts for Long Video Generation**, "Mixture of Contexts for Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2508.21058-06764.svg)](https://arxiv.org/abs/2508.21058)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://primecai.github.io/moc/).
+- **VMem**, "VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory". [![arXiv](https://img.shields.io/badge/arXiv-2506.18903-b31b1b.svg)](https://arxiv.org/abs/2506.18903) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://v-mem.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/runjiali-rl/vmem)
 
 Explicit Memory:
 - [⭐️] **WonderWorld**, "WonderWorld: Interactive 3D Scene Generation from a Single Image". [![arXiv](https://img.shields.io/badge/arXiv-2406.09394-06764.svg)](https://arxiv.org/abs/2406.09394)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://kovenyu.com/wonderworld/).
