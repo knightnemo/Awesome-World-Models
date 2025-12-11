@@ -266,13 +266,8 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **UnifoLM-WMA-0**, "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unigen-x.github.io/unifolm-world-model-action.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/unitreerobotics/unifolm-world-model-action/tree/main)
 - [⭐️] **iVideoGPT**, "iVideoGPT: Interactive VideoGPTs are Scalable World Models". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](https://arxiv.org/abs/2405.15223)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://thuml.github.io/iVideoGPT/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thuml/iVideoGPT) 
 * **Direct Robot Configuration Space Construction**: "Direct Robot Configuration Space Construction using Convolutional Encoder-Decoders". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICML.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://physical-world-modeling.github.io/)
-<!-- end inserted -->
-<!-- inserted -->
-* **ViPRA**: "ViPRA: Video Prediction for Robot Actions". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
-<!-- end inserted -->
-<!-- inserted -->
+* **ViPRA**: "ViPRA: Video Prediction for Robot Actions".  [![arXiv](https://arxiv.org/abs/2511.07732)] [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vipra-project.github.io) [![Code](https://github.com/sroutray/vipra) 
 * **ROPES**: "ROPES: Robotic Pose Estimation via Score-based Causal Representation Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
-<!-- end inserted -->
 
 ### 2. World Models for Manipulation
 - [⭐️] **FLARE**, "FLARE: Robot Learning with Implicit World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2505.15659-b31b1b.svg)](http://arxiv.org/abs/2505.15659) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/flare/)
