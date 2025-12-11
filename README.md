@@ -108,6 +108,8 @@ Some other great blogposts on world models include:
 - **World Models in AI: Like a Child**, "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child". [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)
 - **World Model Safety**, "World Models: The Safety Perspective". [![arXiv](https://img.shields.io/badge/arXiv-2411.07690-b31b1b.svg)](https://arxiv.org/abs/2411.07690)
 - **Model-based reinforcement learning**: "A survey on model-based reinforcement learning".  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://link.springer.com/article/10.1007/s11432-022-3696-5)
+- **On Memory: A comparison of memory mechanisms in world models**: "On Memory: A comparison of memory mechanisms in world models". [![arXiv](https://img.shields.io/badge/arXiv-2512.06983-b31b1b.svg)](https://www.arxiv.org/abs/2512.06983)
+
 
 ---
 
