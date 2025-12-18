@@ -342,7 +342,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **In-Context Policy Iteration**: "In-Context Policy Iteration for Dynamic Manipulation". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
 <!-- inserted -->
-* **HDFlow**: "HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Robotic Assembly". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
+* **HDFlow**: "HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Robotic Assembly". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hdflow-page.github.io)
 <!-- end inserted -->
 <!-- inserted -->
 * **Mobile Manipulation with Active Inference**: "Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
