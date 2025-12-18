@@ -108,6 +108,8 @@ Some other great blogposts on world models include:
 - **World Models in AI: Like a Child**, "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child". [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)
 - **World Model Safety**, "World Models: The Safety Perspective". [![arXiv](https://img.shields.io/badge/arXiv-2411.07690-b31b1b.svg)](https://arxiv.org/abs/2411.07690)
 - **Model-based reinforcement learning**: "A survey on model-based reinforcement learning".  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://link.springer.com/article/10.1007/s11432-022-3696-5)
+- **On Memory: A comparison of memory mechanisms in world models**: "On Memory: A comparison of memory mechanisms in world models". [![arXiv](https://img.shields.io/badge/arXiv-2512.06983-b31b1b.svg)](https://www.arxiv.org/abs/2512.06983)
+
 
 ---
 
@@ -139,6 +141,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 
 - [⭐️] **Cosmos-Drive-Dreams**, "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models". [![arXiv](https://img.shields.io/badge/arXiv-2506.09042-b31b1b.svg)](https://arxiv.org/abs/2506.09042) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams)
 - [⭐️] **GAIA-2**, "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2503.20523-b31b1b.svg)](https://arxiv.org/abs/2503.20523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wayve.ai/thinking/gaia-2)
+- **WorldLens**, "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World". [![arXiv](https://img.shields.io/badge/arXiv-2512.10958-b31b1b.svg)](https://arxiv.org/abs/2512.10958) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldbench.github.io/worldlens)
 - **Copilot4D**, "Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2311.01017-b31b1b.svg)](https://arxiv.org/abs/2311.01017)
 - **OmniNWM**: "OmniNWM: Omniscient Driving Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.18313-b31b1b.svg)](https://arxiv.org/abs/2510.18313) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://arlo0o.github.io/OmniNWM/) 
 - **GAIA-1**, "Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy". [![arXiv](https://img.shields.io/badge/arXiv-2309.17080-b31b1b.svg)](https://arxiv.org/abs/2309.17080) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://wayve.ai/thinking/introducing-gaia1/) 
@@ -608,6 +611,7 @@ Interactive Video Generation:
 - [⭐️] **Genie 3**, "Genie 3: A new frontier for world models". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [⭐️] **V-JEPA 2**, "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning". [![arXiv](https://img.shields.io/badge/arXiv-2506.09985-b31b1b.svg)](https://arxiv.org/abs/2506.09985) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/vjepa2)
 - [⭐️] **Cosmos Predict 2.5 & Cosmos Transfer 2.5**, "Cosmos Predict 2.5 & Transfer 2.5: Evolving the World Foundation Models for Physical AI". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://huggingface.co/blog/nvidia/cosmos-predict-and-transfer2-5)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)
+- [⭐️] **HY-World 1.5**, "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2FsceneTo3D) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
 - [⭐️] **PAN**, "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation".  [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b.svg)](https://arxiv.org/abs/2511.09057) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://panworld.ai/)
 
 3D Scene Generation: 
