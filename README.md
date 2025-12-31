@@ -101,6 +101,8 @@ Some other great blogposts on world models include:
 - [⭐️] **A Survey of World Models for Autonomous Driving**, "A Survey of World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b.svg)](https://arxiv.org/abs/2501.11260)
 - **World Models for Autonomous Driving: An Initial Survey**, "World Models for Autonomous Driving: An Initial Survey". [![arXiv](https://img.shields.io/badge/arXiv-2403.02622-b31b1b.svg)](https://arxiv.org/abs/2403.02622)
 - **Interplay Between Video Generation and World Models in Autonomous Driving**, "Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey". [![arXiv](https://img.shields.io/badge/arXiv-2411.02914-b31b1b.svg)](https://arxiv.org/abs/2411.02914)
+- **Progressive Robustness-Aware World Models in Autonomous Driving: A Survey**, "Progressive Robustness-Aware World Models in Autonomous Driving: A Survey". [![DOI](https://img.shields.io/badge/DOI-10.36227%2Ftechrxiv.176523308.84756413%2Fv1-blue.svg)](https://doi.org/10.36227/techrxiv.176523308.84756413/v1) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/MoyangSensei/AwesomeRobustDWM)
+
 
 ### 5. Other Good Surveys:
 - **From Masks to Worlds**, "From Masks to Worlds: A Hitchhiker's Guide to World Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.20668-b31b1b.svg)](https://arxiv.org/abs/2510.20668) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/M-E-AGI-Lab/Awesome-World-Models)
