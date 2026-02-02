@@ -479,6 +479,7 @@ Combining World Models and VLAs:
 
 ### 6. World Models x Policy Learning
 This subsection focuses on general policy learning methods in embodied intelligence via leveraging world models.
+- [⭐️] **LingBot-VA**, "LingBot-VA: Causal video-action world model for generalist robot control". [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998v1) [![Website](https://technology.robbyant.com/lingbot-va) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-va)
 - [⭐️] **UWM**, "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets". [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 - [⭐️] **UVA**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ShuangLI59/unified_video_action)
 - **DiWA**, "DiWA: Diffusion Policy Adaptation with World Models". [![arXiv](https://img.shields.io/badge/arXiv-2508.03645-b31b1b.svg)](https://arxiv.org/abs/2508.03645) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://diwa.cs.uni-freiburg.de)
@@ -622,6 +623,7 @@ Interactive Video Generation:
 - [⭐️] **Cosmos Predict 2.5 & Cosmos Transfer 2.5**, "Cosmos Predict 2.5 & Transfer 2.5: Evolving the World Foundation Models for Physical AI". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://huggingface.co/blog/nvidia/cosmos-predict-and-transfer2-5)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)
 - [⭐️] **HY-World 1.5**, "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2FsceneTo3D) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
 - [⭐️] **PAN**, "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation".  [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b.svg)](https://arxiv.org/abs/2511.09057) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://panworld.ai/)
+- [⭐️] **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world/)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
