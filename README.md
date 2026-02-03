@@ -697,6 +697,8 @@ Useful Approaches in Video Generation:
 - **ControlNet**, "Adding Conditional Control to Text-to-Image Diffusion Models". [![arXiv](https://img.shields.io/badge/arXiv-2302.05543-b31b1b.svg)](http://arxiv.org/abs/2302.05543)
 - **ReCamMaster**, "ReCamMaster: Camera-Controlled Generative Rendering from A Single Video". [![arXiv](https://img.shields.io/badge/arXiv-2503.11647-b31b1b.svg)](https://arxiv.org/abs/2503.11647) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/ReCamMaster) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jianhongbai.github.io/ReCamMaster/)
 - **NeoVerse**, "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos". [![arXiv](https://img.shields.io/badge/arXiv-2601.00393-b31b1b.svg)](https://arxiv.org/abs/2601.00393) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://neoverse-4d.github.io/)
+- [⭐️] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing)
+
 
 From Video Generation Models to World Models:
 - [⭐️] **Vid2World**: "Vid2World: Crafting Video Diffusion Models to Interactive World Models". [![arXiv](https://img.shields.io/badge/arXiv-2505.14357-b31b1b.svg)](https://arxiv.org/abs/2505.14357) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://knightnemo.github.io/vid2world/)
