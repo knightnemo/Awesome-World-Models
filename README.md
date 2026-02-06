@@ -922,8 +922,7 @@ JEPA is a special kind of learning in latent space, where the loss is put on the
 - **seq-JEPA**: "seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models". [![arXiv](https://img.shields.io/badge/arXiv-2505.03176-b31b1b.svg)](https://arxiv.org/abs/2505.03176) 
 - **Image World Models**, "Learning and Leveraging World Models in Visual Representation Learning". [![arXiv](https://img.shields.io/badge/arXiv-2403.00504-b31b1b.svg)](https://arxiv.org/abs/2403.00504)
 - **MC-JEPA**, "MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features". [![arXiv](https://img.shields.io/badge/arXiv-2307.12698-b31b1b.svg)](http://arxiv.org/abs/2307.12698) 
-
-
+- **EB-JEPA**, "A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures". [![arXiv](https://img.shields.io/badge/arXiv-2602.03604-b31b1b.svg)](https://arxiv.org/abs/2602.03604) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/eb_jepa)
 
 ### 7. Building World Models from an Object-Centric Perspective
 - [⭐️] **NPE**, "A Compositional Object-Based Approach to Learning Physical Dynamics" [![arXiv](https://img.shields.io/badge/arXiv-1612.00341-b31b1b.svg)](http://arxiv.org/abs/1612.00341)
