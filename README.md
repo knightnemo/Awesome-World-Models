@@ -1177,7 +1177,7 @@ If you find this repository useful, please consider citing this list:
 ```bash
 @misc{huang2025awesomeworldmodels,
     title = {Awesome-World-Models},
-    author = {Siqiao Huang},
+    author = {Siqiao Huang and {Awesome-World-Models Contributors}},
     journal = {GitHub repository},
     url = {https://github.com/knightnemo/Awesome-World-Models},
     year = {2025},
