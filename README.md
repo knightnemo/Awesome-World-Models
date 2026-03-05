@@ -119,7 +119,7 @@ Some other great blogposts on world models include:
 Pixel Space:
 - [⭐️] **GameNGen**, "Diffusion Models Are Real-Time Game Engines". [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) 
 - [⭐️] **DIAMOND**, "Diffusion for World Modeling: Visual Details Matter in Atari".  [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/eloialonso/diamond)
-- **MineWorld**, "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2504.07257-b31b1b.svg)](https://arxiv.org/abs/2504.07257) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aka.ms/mineworld)
+- **MineWorld**, "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2504.08388-b31b1b.svg)](https://arxiv.org/abs/2504.08388) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aka.ms/mineworld)
 - **Oasis**, "Oasis: A Universe in a Transformer". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://oasis-model.github.io/)
 - **AnimeGamer**, "AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2504.01014-b31b1b.svg)](http://arxiv.org/abs/2504.01014)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://howe125.github.io/AnimeGamer.github.io/)
 - [⭐️] **Matrix-Game**, "Matrix-Game: Interactive World Foundation Model." [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](https://arxiv.org/abs/2506.18701) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game)
@@ -1100,7 +1100,7 @@ Implicit Memory:
 Explicit Memory:
 - [⭐️] **WonderWorld**, "WonderWorld: Interactive 3D Scene Generation from a Single Image". [![arXiv](https://img.shields.io/badge/arXiv-2406.09394-06764.svg)](https://arxiv.org/abs/2406.09394)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://kovenyu.com/wonderworld/).
 - [⭐️] **Spatial Memory**, "Video World Models with Long-term Spatial Memory". [![arXiv](https://img.shields.io/badge/arXiv-2406.05284-06764.svg)](https://arxiv.org/abs/2506.05284)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://spmem.github.io).
-
+- [⭐️] **Dynamic Memory Management**, "StableWorld: Towards Stable and Consistent Long Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2601.15281-06764.svg)](https://arxiv.org/abs/2601.15281)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://sd-world.github.io/).
 ---
 
 ## Evaluating World Models
