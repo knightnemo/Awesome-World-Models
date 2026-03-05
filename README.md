@@ -1100,7 +1100,7 @@ Implicit Memory:
 Explicit Memory:
 - [⭐️] **WonderWorld**, "WonderWorld: Interactive 3D Scene Generation from a Single Image". [![arXiv](https://img.shields.io/badge/arXiv-2406.09394-06764.svg)](https://arxiv.org/abs/2406.09394)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://kovenyu.com/wonderworld/).
 - [⭐️] **Spatial Memory**, "Video World Models with Long-term Spatial Memory". [![arXiv](https://img.shields.io/badge/arXiv-2406.05284-06764.svg)](https://arxiv.org/abs/2506.05284)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://spmem.github.io).
-
+- [⭐️] **Dynamic Memory Management**, "StableWorld: Towards Stable and Consistent Long Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2601.15281-06764.svg)](https://arxiv.org/abs/2601.15281)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://sd-world.github.io/).
 ---
 
 ## Evaluating World Models
