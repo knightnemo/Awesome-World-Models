@@ -98,6 +98,7 @@ Some other great blogposts on world models include:
 - **Embodied AI Agents: Modeling the World**, "Embodied AI Agents: Modeling the World". [![arXiv](https://img.shields.io/badge/arXiv-2506.22355-b31b1b.svg)](https://arxiv.org/abs/2506.22355)
 - **Aligning Cyber Space with Physical World**, "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI". [![arXiv](https://img.shields.io/badge/arXiv-2407.06886-b31b1b.svg)](https://arxiv.org/abs/2407.06886) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 - **Physical Grounding in World Models**, "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.15533-b31b1b.svg)](https://arxiv.org/abs/2601.15533)
+- **WorldScape**, "WorldScape: A Unified Real-time World Model Integrating Locomotion And Manipulation". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://manifoldai.cn/blogs/WorldScape.html)
 
 ### 4. World Models for Autonomous Driving:
 - [⭐️] **A Survey of World Models for Autonomous Driving**, "A Survey of World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b.svg)](https://arxiv.org/abs/2501.11260)
