@@ -98,6 +98,7 @@ Some other great blogposts on world models include:
 - **Embodied AI Agents: Modeling the World**, "Embodied AI Agents: Modeling the World". [![arXiv](https://img.shields.io/badge/arXiv-2506.22355-b31b1b.svg)](https://arxiv.org/abs/2506.22355)
 - **Aligning Cyber Space with Physical World**, "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI". [![arXiv](https://img.shields.io/badge/arXiv-2407.06886-b31b1b.svg)](https://arxiv.org/abs/2407.06886) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 - **Physical Grounding in World Models**, "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.15533-b31b1b.svg)](https://arxiv.org/abs/2601.15533)
+- [⭐️] **World Action Models v.s. VLA**, "Do World Action Models Generalize Better than VLAs? A Robustness Study". [![arXiv](https://img.shields.io/badge/arXiv-2603.22078-b31b1b.svg)](https://arxiv.org/abs/2603.22078)
 
 ### 4. World Models for Autonomous Driving:
 - [⭐️] **A Survey of World Models for Autonomous Driving**, "A Survey of World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b.svg)](https://arxiv.org/abs/2501.11260)
@@ -647,6 +648,8 @@ Genie Series:
 
 V-JEPA Series:
 - [⭐️] **V-JEPA**: "V-JEPA: Video Joint Embedding Predictive Architecture". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/) [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/jepa)
+- **LeWM**: "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels". [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2603.19312v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/lucas-maes/le-wm)
+- **Interpreting JEPA**: "Interpreting Physics in Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2602.07050-b31b1b.svg)](https://arxiv.org/pdf/2602.07050)
 
 Cosmos Series:
 - [⭐️] **Cosmos**, "Cosmos World Foundation Model Platform for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575v1)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)[![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.nvidia.com/en-us/ai/cosmos/)
