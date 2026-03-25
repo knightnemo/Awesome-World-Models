@@ -98,7 +98,9 @@ Some other great blogposts on world models include:
 - **Embodied AI Agents: Modeling the World**, "Embodied AI Agents: Modeling the World". [![arXiv](https://img.shields.io/badge/arXiv-2506.22355-b31b1b.svg)](https://arxiv.org/abs/2506.22355)
 - **Aligning Cyber Space with Physical World**, "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI". [![arXiv](https://img.shields.io/badge/arXiv-2407.06886-b31b1b.svg)](https://arxiv.org/abs/2407.06886) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 - **Physical Grounding in World Models**, "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.15533-b31b1b.svg)](https://arxiv.org/abs/2601.15533)
+- [⭐️] **World Action Models v.s. VLA**, "Do World Action Models Generalize Better than VLAs? A Robustness Study". [![arXiv](https://img.shields.io/badge/arXiv-2603.22078-b31b1b.svg)](https://arxiv.org/abs/2603.22078)
 - **WorldScape**, "WorldScape: A Unified Real-time World Model Integrating Locomotion And Manipulation". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://manifoldai.cn/blogs/WorldScape.html)
+
 
 ### 4. World Models for Autonomous Driving:
 - [⭐️] **A Survey of World Models for Autonomous Driving**, "A Survey of World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b.svg)](https://arxiv.org/abs/2501.11260)
@@ -277,6 +279,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **ViPRA**: "ViPRA: Video Prediction for Robot Actions". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)]([https://arxiv.org/abs/2405.15223](https://arxiv.org/abs/2511.07732))  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vipra-project.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sroutray/vipra) 
 * **ROPES**: "ROPES: Robotic Pose Estimation via Score-based Causal Representation Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)]([https://arxiv.org/abs/2405.15223](https://arxiv.org/abs/2510.20884)) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 
+
 ### 2. World Models for Manipulation
 - [⭐️] **PointWorld**, [![arXiv](https://img.shields.io/badge/arXiv-2601.03782-b31b1b.svg)](https://www.arxiv.org/abs/2601.03782) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://point-world.github.io)
 - [⭐️] **Dex-WM**, "". [![arXiv](https://img.shields.io/badge/arXiv-2512.13644-b31b1b.svg)](https://arxiv.org/abs/2512.13644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://raktimgg.github.io/dexwm/)
@@ -359,6 +362,8 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **Mobile Manipulation with Active Inference**: "Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
 - [⭐️] **Hierarchical World Model**, "H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model". [![arXiv](https://img.shields.io/badge/arXiv-2602.11291-b31b1b.svg)](https://arxiv.org/abs/2602.11291)
+* **Cosmos Policy**: "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning". [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
+* **DiT4DiT**: "DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control". [![arXiv](https://img.shields.io/badge/arXiv-2603.10448-b31b1b.svg)](https://arxiv.org/abs/2603.10448) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dit4dit.github.io/)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
@@ -648,6 +653,8 @@ Genie Series:
 
 V-JEPA Series:
 - [⭐️] **V-JEPA**: "V-JEPA: Video Joint Embedding Predictive Architecture". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/) [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/jepa)
+- **LeWM**: "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels". [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2603.19312v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/lucas-maes/le-wm)
+- **Interpreting JEPA**: "Interpreting Physics in Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2602.07050-b31b1b.svg)](https://arxiv.org/pdf/2602.07050)
 
 Cosmos Series:
 - [⭐️] **Cosmos**, "Cosmos World Foundation Model Platform for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575v1)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)[![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.nvidia.com/en-us/ai/cosmos/)
@@ -841,6 +848,7 @@ Symbolic World Models:
 - "Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video". [![arXiv](https://img.shields.io/badge/arXiv-2508.11836-b31b1b.svg)](https://arxiv.org/abs/2508.11836)
 - "Synthesizing world models for bilevel planning". [![arXiv](https://img.shields.io/badge/arXiv-2503.20124-b31b1b.svg)](https://arxiv.org/abs/2503.20124) 
 - "Generating Symbolic World Models via Test-time Scaling of Large Language Models". [![arXiv](https://img.shields.io/badge/arXiv-2502.04728-b31b1b.svg)](https://arxiv.org/abs/2502.04728) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vmlpddl.github.io/)
+- **Neuro-Symbolic World Models**: "Neuro-Symbolic World Models for Adapting to Open World Novelty". [![arXiv](https://img.shields.io/badge/arXiv-2301.06294-b31b1b.svg)](https://arxiv.org/abs/2301.06294)
 
 LLM-in-the-loop World Generation:
 - **LatticeWorld**, "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation". [![arXiv](https://img.shields.io/badge/arXiv-2509.05263-b31b1b.svg)](https://arxiv.org/abs/2509.05263)
