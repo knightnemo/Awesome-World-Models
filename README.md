@@ -780,6 +780,9 @@ Pixel Space World Models:
 * **Whole-Body Conditioned Egocentric Video Prediction**: "Whole-Body Conditioned Egocentric Video Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2506.21552-b31b1b.svg)](https://arxiv.org/abs/2506.21552) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/RIWM_Non_Archival#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dannytran123.github.io/PEVA/)
 <!-- end inserted -->
 <!-- inserted -->
+* **Hand2World**: "Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures". [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b.svg)](https://arxiv.org/abs/2602.09600) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hand2world.github.io/)
+<!-- end inserted -->
+<!-- inserted -->
 * **Taming generative world models**: "Taming generative world models for zero-shot optical flow extraction". [![arXiv](https://img.shields.io/badge/arXiv-2507.09082-b31b1b.svg)](https://arxiv.org/abs/2507.09082) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/RIWM_Non_Archival#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://neuroailab.github.io/projects/kl_tracing/)
 <!-- end inserted -->
 
