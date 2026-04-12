@@ -11,7 +11,7 @@
   <img src="assets/main.png" alt="Awesome World Models" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
-*Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-2-5-flash-image)*.
+*Photo Credit: [Gemini 3.1 Flash Image](https://aistudio.google.com/models/gemini-3-1-flash-image)*.
 </div>
 
 ---
