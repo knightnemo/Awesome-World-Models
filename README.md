@@ -536,7 +536,8 @@ Natural Science:
 - [⭐️] **SFP**, "Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.04020-b31b1b.svg)](https://arxiv.org/abs/2510.04020)
 - **Xray2Xray**, "Xray2Xray: World Model from Chest X-rays with Volumetric Context". [![arXiv](https://img.shields.io/badge/arXiv-2506.19055-b31b1b.svg)](https://arxiv.org/abs/2506.19055)
 - [⭐️] **Medical World Model**: "Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning". [![arXiv](https://img.shields.io/badge/arXiv-2506.02327-b31b1b.svg)](https://arxiv.org/abs/2506.02327)
-- **Surgical Vision World Model**, "Surgical Vision World Model". [![arXiv](https://img.shields.io/badge/arXiv-2503.02904-b31b1b.svg)](https://arxiv.org/abs/2503.02904) 
+- **Surgical Vision World Model**, "Surgical Vision World Model". [![arXiv](https://img.shields.io/badge/arXiv-2503.02904-b31b1b.svg)](https://arxiv.org/abs/2503.02904)
+- **MicroVerse**: "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation". [![arXiv](https://img.shields.io/badge/arXiv-2603.00585-b31b1b.svg)](https://arxiv.org/abs/2603.00585) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/FreedomIntelligence/MicroVerse)
 
 Social Science:
 - **Social World Models**, "Social World Models". [![arXiv](https://img.shields.io/badge/arXiv-2509.00559-b31b1b.svg)](https://arxiv.org/abs/2509.00559)
