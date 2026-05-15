@@ -610,6 +610,7 @@ Social Science:
 ## Theory & World Models Explainability
 - [⭐️] **General agents Contain World Models**, "General agents contain world models". [![arXiv](https://img.shields.io/badge/arXiv-2506.01622-b31b1b.svg)](https://arxiv.org/abs/2506.01622)
 - [⭐️] **When Do Neural Networks Learn World Models?** "When Do Neural Networks Learn World Models?" [![arXiv](https://img.shields.io/badge/arXiv-2502.09297-b31b1b.svg)](https://arxiv.org/abs/2502.09297)
+- [⭐️] **Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models** [![arXiv](https://img.shields.io/badge/arXiv-2605.06388-b31b1b.svg)](https://arxiv.org/abs/2605.06388)
 - **What Does it Mean for a Neural Network to Learn a 'World Model'?**, "What Does it Mean for a Neural Network to Learn a 'World Model'?". [![arXiv](https://img.shields.io/badge/arXiv-2507.21513-b31b1b.svg)](https://arxiv.org/abs/2507.21513)
 - **Transformer cannot learn HMMs (sometimes)** "On Limitation of Transformer for Learning HMMs". [![arXiv](https://img.shields.io/badge/arXiv-2406.04089-b31b1b.svg)](https://arxiv.org/abs/2406.04089)
 - [⭐️] **Inductive Bias Probe**, "What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models". [![arXiv](https://img.shields.io/badge/arXiv-2507.06952-b31b1b.svg)](https://arxiv.org/abs/2507.06952)
@@ -642,6 +643,7 @@ Interactive Video Generation:
 - [⭐️] **PAN**, "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation".  [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b.svg)](https://arxiv.org/abs/2511.09057) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://panworld.ai/)
 - [⭐️] **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world/)
 - [⭐️] **DreamZero**, "DreamZero: World Action Models are Zero-shot Policies". [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/dreamzero0/dreamzero)
+- **SANA-WM**: "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer". [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
