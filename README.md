@@ -133,6 +133,7 @@ Pixel Space:
 - **GameFactory**, "GameFactory: Creating New Games with Generative Interactive Videos". [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](http://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/GameFactory)
 - **WORLDMEM**, "Worldmem: Long-term Consistent World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](http://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
 - **Waypoint-1**, "The Path to Real-Time Worlds and Why It Matters". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters) 
+- **SCOPE**, "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.23345-b31b1b.svg)](https://arxiv.org/abs/2605.23345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z2tong.github.io/SCOPE/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/z2tong/SCOPE)
 
 3D Mesh Space:
 - [⭐️] **HunyuanWorld 1.0**, HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2507.21809-b31b1b.svg)](https://arxiv.org/abs/2507.21809) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
@@ -364,6 +365,9 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - [⭐️] **Hierarchical World Model**, "H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model". [![arXiv](https://img.shields.io/badge/arXiv-2602.11291-b31b1b.svg)](https://arxiv.org/abs/2602.11291)
 * **Cosmos Policy**: "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning". [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
 * **DiT4DiT**: "DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control". [![arXiv](https://img.shields.io/badge/arXiv-2603.10448-b31b1b.svg)](https://arxiv.org/abs/2603.10448) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dit4dit.github.io/)
+- **GEM-4D**, "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2605.22882-b31b1b.svg)](https://arxiv.org/abs/2605.22882) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anonymous-submission-20.github.io/gem.github.io/)
+- **GaussianDream**, "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20752-b31b1b.svg)](https://arxiv.org/abs/2605.20752)
+- **Demo-JEPA**, "Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20811-b31b1b.svg)](https://arxiv.org/abs/2605.20811)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
@@ -644,6 +648,7 @@ Interactive Video Generation:
 - [⭐️] **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world/)
 - [⭐️] **DreamZero**, "DreamZero: World Action Models are Zero-shot Policies". [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/dreamzero0/dreamzero)
 - **SANA-WM**: "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer". [![arXiv](https://img.shields.io/badge/arXiv-2605.15178-b31b1b.svg)](https://arxiv.org/abs/2605.15178) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/Sana/WM/)
+- **stable-worldmodel**, "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation". [![arXiv](https://img.shields.io/badge/arXiv-2605.21800-b31b1b.svg)](https://arxiv.org/abs/2605.21800) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/galilai-group/stable-worldmodel)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
@@ -1132,6 +1137,7 @@ World Models in the Language Modality:
 - **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning". [![arXiv](https://img.shields.io/badge/arXiv-2506.04363-b31b1b.svg)](https://arxiv.org/abs/2506.04363)
 - **EVA**: "EVA: An Embodied World Model for Future Video Anticipation". [![arXiv](https://img.shields.io/badge/arXiv-2410.15461-b31b1b.svg)](https://arxiv.org/abs/2410.15461) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/eva-publi) 
 - **AeroVerse**: "AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models". [![arXiv](https://img.shields.io/badge/arXiv-2408.15511-b31b1b.svg)](https://arxiv.org/pdf/2408.15511)
+- **WMAttack**, "WMAttack: Automated Attack Search for Adversarial Evaluation of World-Model Agents". [![arXiv](https://img.shields.io/badge/arXiv-2605.23220-b31b1b.svg)](https://arxiv.org/abs/2605.23220)
 
 
 World Models in the Pixel Space:
@@ -1148,6 +1154,7 @@ Generation via World Model". [![arXiv](https://img.shields.io/badge/arXiv-2503.1
 - **WorldSimBench**: "WorldSimBench: Towards Video Generation Models as World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2410.18072-b31b1b.svg)](https://arxiv.org/abs/2410.18072) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://iranqin.github.io/WorldSimBench.github.io/) 
 - **WorldScore**, "WorldScore: A Unified Evaluation Benchmark for World Generation". [![arXiv](https://img.shields.io/badge/arXiv-2504.00983-b31b1b.svg)](http://arxiv.org/abs/2504.00983) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://haoyi-duan.github.io/WorldScore/)
 - "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models". [![arXiv](https://img.shields.io/badge/arXiv-2311.09064-b31b1b.svg)](https://arxiv.org/abs/2311.09064)
+- **CRONOS**, "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.23699-b31b1b.svg)](https://arxiv.org/abs/2605.23699)
 
 
 World Models in 3D Mesh Space:
@@ -1212,4 +1219,3 @@ If you find this repository useful, please consider citing this list:
 ---
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=knightnemo/Awesome-World-Models&type=Date)](https://www.star-history.com/#knightnemo/Awesome-World-Models&Date)
-
