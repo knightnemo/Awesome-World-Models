@@ -110,6 +110,7 @@ Some other great blogposts on world models include:
 
 
 ### 5. Other Good Surveys:
+- **Safety in Embodied AI**, "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses". [![arXiv](https://img.shields.io/badge/arXiv-2605.02900-b31b1b.svg)](https://arxiv.org/abs/2605.02900) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
 - **From Masks to Worlds**, "From Masks to Worlds: A Hitchhiker's Guide to World Models". [![arXiv](https://img.shields.io/badge/arXiv-2510.20668-b31b1b.svg)](https://arxiv.org/abs/2510.20668) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/M-E-AGI-Lab/Awesome-World-Models)
 - **The Safety Challenge of World Models**, "The Safety Challenge of World Models for Embodied AI Agents: A Review". [![arXiv](https://img.shields.io/badge/arXiv-2510.05865-b31b1b.svg)](https://arxiv.org/abs/2510.05865)
 - **World Models in AI: Like a Child**, "World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child". [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)
