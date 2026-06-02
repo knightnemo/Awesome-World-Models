@@ -1155,6 +1155,7 @@ Generation via World Model". [![arXiv](https://img.shields.io/badge/arXiv-2503.1
 - **WorldScore**, "WorldScore: A Unified Evaluation Benchmark for World Generation". [![arXiv](https://img.shields.io/badge/arXiv-2504.00983-b31b1b.svg)](http://arxiv.org/abs/2504.00983) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://haoyi-duan.github.io/WorldScore/)
 - "Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models". [![arXiv](https://img.shields.io/badge/arXiv-2311.09064-b31b1b.svg)](https://arxiv.org/abs/2311.09064)
 - **CRONOS**, "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.23699-b31b1b.svg)](https://arxiv.org/abs/2605.23699)
+- **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation". [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/meituan-longcat/WBench)
 
 
 World Models in 3D Mesh Space:
