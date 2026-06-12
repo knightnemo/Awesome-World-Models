@@ -100,7 +100,7 @@ Some other great blogposts on world models include:
 - **Physical Grounding in World Models**, "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.15533-b31b1b.svg)](https://arxiv.org/abs/2601.15533)
 - [⭐️] **World Action Models v.s. VLA**, "Do World Action Models Generalize Better than VLAs? A Robustness Study". [![arXiv](https://img.shields.io/badge/arXiv-2603.22078-b31b1b.svg)](https://arxiv.org/abs/2603.22078)
 - **WorldScape**, "WorldScape: A Unified Real-time World Model Integrating Locomotion And Manipulation". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://manifoldai.cn/blogs/WorldScape.html)
-
+- [⭐️] **World Model for Robot Learning**: "World Model for Robot Learning: A Comprehensive Survey". [![arXiv](https://img.shields.io/badge/arXiv-2605.00080-b31b1b.svg)](https://arxiv.org/abs/2605.00080) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ntumars.github.io/wm-robot-survey/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
 
 ### 4. World Models for Autonomous Driving:
 - [⭐️] **A Survey of World Models for Autonomous Driving**, "A Survey of World Models for Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2501.11260-b31b1b.svg)](https://arxiv.org/abs/2501.11260)
