@@ -35,6 +35,7 @@ _Major updates and announcements are shown below. Scroll for full timeline._
 
   - 🎯 [Aim of the project](#aim-of-the-project)
   - 📚 [Definition of World Models](#definition-of-world-models)
+  - 🧭 [Tutorials & Starter Resources](#tutorials--starter-resources)
   - 📖 [Surveys of World Models](#surveys-of-world-models)
   - 🎮 [World Models for Game Simulation](#world-models-for-game-simulation)
   - 🚗 [World Models for Autonomous Driving](#world-models-for-autonomous-driving)
@@ -79,6 +80,12 @@ Some other great blogposts on world models include:
 - **Status of World Models in 2025**, "Beyond the Hype: How I See World Models Evolving in 2025". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://knightnemo.github.io/blog/posts/wm_2025/)
 - [⭐️] **Jim Fan's tweet**. [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://x.com/DrJimFan/status/1709947595525951787)
 - [⭐️] **World Model Workshop at Montreal**, "Keynote: Yoshua Bengio, Yann Lecun, Jurgen Schmidhuber, Sherry Yang, Shirley Ho, etc. (Youtube Streamning included)". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-model-mila.github.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://medium.com/@zlf465074419/yann-lecun-world-model-insights-19c1234508c3)
+
+---
+## Tutorials & Starter Resources
+
+- [⭐️] **Nano World Models**, "Nano World Models: A Minimalist Implementation of Future Video Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2605.23993-b31b1b.svg)](https://arxiv.org/abs/2605.23993) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://simchowitzlabpublic.github.io/nano-world-model/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/simchowitzlabpublic/nano-world-model)
+- [⭐️] **minWM**, "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/shengshu-ai/minWM)
 
 ---
 ## Surveys of World Models
@@ -129,6 +136,7 @@ Pixel Space:
 - **AnimeGamer**, "AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2504.01014-b31b1b.svg)](http://arxiv.org/abs/2504.01014)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://howe125.github.io/AnimeGamer.github.io/)
 - [⭐️] **Matrix-Game**, "Matrix-Game: Interactive World Foundation Model." [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](https://arxiv.org/abs/2506.18701) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game)
 - [⭐️] **Matrix-Game 2.0**, Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b.svg)](https://arxiv.org/abs/2508.13009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v2.github.io/)
+- [⭐️] **Matrix-Game 3.0**, "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2604.08995-b31b1b.svg)](https://arxiv.org/abs/2604.08995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3)
 - **RealPlay**, "From Virtual Games to Real-World Play". [![arXiv](https://img.shields.io/badge/arXiv-2506.18901-b31b1b.svg)](https://arxiv.org/abs/2506.18901) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenqsun.github.io/RealPlay/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wenqsun/Real-Play)
 - **GameFactory**, "GameFactory: Creating New Games with Generative Interactive Videos". [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](http://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/GameFactory)
 - **WORLDMEM**, "Worldmem: Long-term Consistent World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](http://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
@@ -733,6 +741,7 @@ Useful Approaches in Video Generation:
 - **SpaceTimePilot**, “SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time”. [![arXiv](https://img.shields.io/badge/arXiv-2512.25075-b31b1b.svg)](https://arxiv.org/abs/2512.25075) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ZheningHuang/spacetimepilot) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zheninghuang.github.io/Space-Time-Pilot/)
 - **NeoVerse**, "NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos". [![arXiv](https://img.shields.io/badge/arXiv-2601.00393-b31b1b.svg)](https://arxiv.org/abs/2601.00393) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://neoverse-4d.github.io/)
 - [⭐️] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing)
+- [⭐️] **Next Forcing**, "Next Forcing: Causal World Modeling with Multi-Chunk Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2606.11187-b31b1b.svg)](https://arxiv.org/abs/2606.11187) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gangweix.github.io/next-forcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/gangweix/next-forcing)
 - [⭐️] **Helios**, "Helios: Real Real-Time Long Video Generation Model". [![arXiv](https://img.shields.io/badge/arXiv-2603.04379-b31b1b.svg)](https://arxiv.org/abs/2603.04379) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-yuangroup.github.io/Helios-Page/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/PKU-YuanGroup/Helios)
 
 From Video Generation Models to World Models:
