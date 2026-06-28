@@ -852,6 +852,7 @@ Aiming to Advance LLM/VLM skills:
 - **LLMCWM**: "Language Agents Meet Causality -- Bridging LLMs and Causal World Models". [![arXiv](https://img.shields.io/badge/arXiv-2410.19923-b31b1b.svg)](https://arxiv.org/abs/2410.19923) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/j0hngou/LLMCWM/)
 - "Making Large Language Models into World Models with Precondition and Effect Knowledge". [![arXiv](https://img.shields.io/badge/arXiv-2409.12278-b31b1b.svg)](https://arxiv.org/abs/2409.12278)
 - **CityBench**: "CityBench: Evaluating the Capabilities of Large Language Model as World Model". [![arXiv](https://img.shields.io/badge/arXiv-2406.13945-b31b1b.svg)](https://arxiv.org/abs/2406.13945) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/tsinghua-fib-lab/CityBench)
+- [⭐️] **Qwen-AgentWorld**: "Qwen-AgentWorld: Language World Models for General Agents". [![arXiv](https://img.shields.io/badge/arXiv-2606.24597-b31b1b.svg)](https://arxiv.org/abs/2606.24597) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://qwen.ai/blog?id=qwen-agentworld) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/QwenLM/Qwen-AgentWorld)
 
 
 Aiming to enhance computer-use agent performance:
