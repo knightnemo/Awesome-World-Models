@@ -87,6 +87,9 @@ Some other great blogposts on world models include:
 - [⭐️] **Nano World Models**, "Nano World Models: A Minimalist Implementation of Future Video Prediction". [![arXiv](https://img.shields.io/badge/arXiv-2605.23993-b31b1b.svg)](https://arxiv.org/abs/2605.23993) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://simchowitzlabpublic.github.io/nano-world-model/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/simchowitzlabpublic/nano-world-model)
 - [⭐️] **minWM**, "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.30263-b31b1b.svg)](https://arxiv.org/abs/2605.30263) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/shengshu-ai/minWM)
 - **StableWM**, "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation". [![arXiv](https://img.shields.io/badge/arXiv-2605.21800-b31b1b.svg)](https://arxiv.org/abs/2605.21800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://galilai-group.github.io/stable-worldmodel/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/galilai-group/stable-worldmodel)
+- **WorldFoundry**, "WorldFoundry: Unified World Model Inference & Evaluation Infrastructure".
+  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openenvision.github.io/WorldFoundry/)
+  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenEnvision/WorldFoundry)
 
 ---
 ## Surveys of World Models
