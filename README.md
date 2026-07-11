@@ -385,6 +385,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **GEM-4D**, "GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2605.22882-b31b1b.svg)](https://arxiv.org/abs/2605.22882) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anonymous-submission-20.github.io/gem.github.io/)
 - **GaussianDream**, "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20752-b31b1b.svg)](https://arxiv.org/abs/2605.20752)
 - **Demo-JEPA**, "Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20811-b31b1b.svg)](https://arxiv.org/abs/2605.20811)
+- **Action-State Consistency**, "Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.07514-b31b1b.svg)](https://arxiv.org/abs/2605.07514)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
