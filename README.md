@@ -561,6 +561,9 @@ For World Model Evaluation:
 ---
 
 ## World Models for Science
+Related resource:
+- [**World Models for Healthcare**](https://github.com/chengwang96/Awesome-World-Models-for-Healthcare#readme) - Medical world models, patient digital twins, and counterfactual simulators for clinical planning.
+
 Natural Science:
 
 - [⭐️] **CellFlux**, "CellFlux: Simulating Cellular Morphology Changes via Flow Matching". [![arXiv](https://img.shields.io/badge/arXiv-2502.09775-b31b1b.svg)](https://arxiv.org/abs/2502.09775)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuhui-zh15.github.io/CellFlux/).
