@@ -296,6 +296,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **ViPRA**: "ViPRA: Video Prediction for Robot Actions". [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)]([https://arxiv.org/abs/2405.15223](https://arxiv.org/abs/2511.07732))  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vipra-project.github.io) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sroutray/vipra) 
 * **ROPES**: "ROPES: Robotic Pose Estimation via Score-based Causal Representation Learning". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)]([https://arxiv.org/abs/2405.15223](https://arxiv.org/abs/2510.20884)) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 - [⭐️] **Qwen-RobotWorld**, "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2606.17030-b31b1b.svg)](https://arxiv.org/abs/2606.17030) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://qwen.ai/blog?id=qwen-robotworld)
+- [⭐️] **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model". [![arXiv](https://img.shields.io/badge/arXiv-2607.11643-b31b1b.svg)](https://arxiv.org/abs/2607.11643) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-u0.html) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0)
 
 
 ### 2. World Models for Manipulation
@@ -390,6 +391,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **GaussianDream**, "GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20752-b31b1b.svg)](https://arxiv.org/abs/2605.20752)
 - **Demo-JEPA**, "Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation". [![arXiv](https://img.shields.io/badge/arXiv-2605.20811-b31b1b.svg)](https://arxiv.org/abs/2605.20811)
 - **Action-State Consistency**, "Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.07514-b31b1b.svg)](https://arxiv.org/abs/2605.07514)
+- **DriftWorld**: "DriftWorld: Fast World Modeling through Drifting". [![arXiv](https://img.shields.io/badge/arXiv-2607.15065-b31b1b.svg)](https://arxiv.org/abs/2607.15065) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://susie-lu.github.io/driftworld/)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
@@ -531,6 +533,8 @@ This subsection focuses on general policy learning methods in embodied intellige
 - **ABot-M0.5**, "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model". [![arXiv](https://img.shields.io/badge/arXiv-2607.00678-b31b1b.svg)](https://arxiv.org/abs/2607.00678) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/amap-cvlab/ABot-Manipulation)
 - **EgoWAM**: "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data". [![arXiv](https://img.shields.io/badge/arXiv-2607.08436-b31b1b.svg)](https://arxiv.org/abs/2607.08436) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gatech-rl2.github.io/egowam.github.io/)
 - **WAM-TTT**: "WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time". [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988)
+- **FlowWAM**: "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/YixiangChen515/FlowWAM)
+- **GigaWorld-Policy-0.5**: "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch". [![arXiv](https://img.shields.io/badge/arXiv-2607.13960-b31b1b.svg)](https://arxiv.org/abs/2607.13960) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://open-gigaai.github.io/giga-world-policy/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/open-gigaai/giga-world-policy)
 * **Latent Action Learning Requires Supervision**: "Latent Action Learning Requires Supervision in the Presence of Distractors". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
 <!-- end inserted -->
 <!-- inserted -->
@@ -842,7 +846,9 @@ Pixel Space World Models:
 - [⭐️] **Aether**: "Aether: Geometric-Aware Unified World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2503.18945-b31b1b.svg)](https://arxiv.org/abs/2503.18945) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://aether-world.github.io/)
 - **HERO**: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models". [![arXiv](https://img.shields.io/badge/arXiv-2508.17588-b31b1b.svg)](https://arxiv.org/abs/2508.17588)
 - **UrbanWorld**: "UrbanWorld: An Urban World Model for 3D City Generation". [![arXiv](https://img.shields.io/badge/arXiv-2407.11965-b31b1b.svg)](https://arxiv.org/abs/2407.11965)
-- **DeepVerse**: "DeepVerse: 4D Autoregressive Video Generation as a World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](https://arxiv.org/abs/2506.01103)<!-- inserted -->
+- **DeepVerse**: "DeepVerse: 4D Autoregressive Video Generation as a World Model". [![arXiv](https://img.shields.io/badge/arXiv-2506.01103-b31b1b.svg)](https://arxiv.org/abs/2506.01103)
+- **ABot-3DWorld 0**: "ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space". [![arXiv](https://img.shields.io/badge/arXiv-2607.11673-b31b1b.svg)](https://arxiv.org/abs/2607.11673) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://abot-world.amap.com/plaza)
+<!-- inserted -->
 * **EnerVerse-AC**: "EnerVerse-AC: Envisioning Embodied Environments with Action Condition". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
 <!-- inserted -->
