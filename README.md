@@ -1194,6 +1194,7 @@ World Models in the Language Modality:
 
 
 World Models in the Pixel Space:
+- **ProVisE**: "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text". [![arXiv](https://img.shields.io/badge/arXiv-2607.21072-b31b1b.svg)](https://arxiv.org/abs/2607.21072) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ZJU-OmniAI/ProVisE) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zju-omniai.github.io/ProVisE/)
 - **World-in-World**: "World-in-World: World Models in a Closed-Loop World". [![arXiv](https://img.shields.io/badge/arXiv-2510.18135-b31b1b.svg)](https://arxiv.org/abs/2510.18135) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/World-In-World/world-in-world) 
 - **WorldPrediction**: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning". [![arXiv](https://img.shields.io/badge/arXiv-2506.04363-b31b1b.svg)](https://arxiv.org/abs/2506.04363)
 - "Toward Memory-Aided World Models: Benchmarking via Spatial Consistency". [![arXiv](https://img.shields.io/badge/arXiv-2505.22976-b31b1b.svg)](https://arxiv.org/abs/2505.22976) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/kevinLian/LoopNav) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Kevin-lkw/LoopNav)
