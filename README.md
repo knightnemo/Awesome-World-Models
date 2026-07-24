@@ -90,6 +90,7 @@ Some other great blogposts on world models include:
 - **WorldFoundry**, "WorldFoundry: Unified World Model Inference & Evaluation Infrastructure".
   [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openenvision.github.io/WorldFoundry/)
   [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenEnvision/WorldFoundry)
+- **world-models.io**, "A structured knowledge platform for discovering and comparing AI world models across robotics, model-based reinforcement learning, simulation engines, embodied AI, and autonomous systems, with model profiles, comparisons, research, benchmarks, and a practical taxonomy." [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-models.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)
 
 ---
 ## Surveys of World Models
