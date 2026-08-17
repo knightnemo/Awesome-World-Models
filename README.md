@@ -396,6 +396,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **Action-State Consistency**, "Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.07514-b31b1b.svg)](https://arxiv.org/abs/2605.07514)
 - **DriftWorld**: "DriftWorld: Fast World Modeling through Drifting". [![arXiv](https://img.shields.io/badge/arXiv-2607.15065-b31b1b.svg)](https://arxiv.org/abs/2607.15065) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://susie-lu.github.io/driftworld/)
 - **Robot-Factored World Models**: "Robot-Factored World Models via Robot Rendering". [![arXiv](https://img.shields.io/badge/arXiv-2607.22535-b31b1b.svg)](https://arxiv.org/abs/2607.22535) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://bjkim95.github.io/rofacto/)
+- **DreamX-Phi 1.0**: "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2608.13489-b31b1b.svg)](https://arxiv.org/abs/2608.13489) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AMAP-ML/DreamX-Phi)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
@@ -700,6 +701,8 @@ Interactive Video Generation:
 - [⭐️] **Kairos**, "Kairos: A Native World Model Stack for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2606.16533-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/papers/2606.16533)
 - [⭐️] **DreamX-World 1.0**, "DreamX-World 1.0: A General-Purpose Interactive World Model". [![arXiv](https://img.shields.io/badge/arXiv-2606.16993-b31b1b.svg)](https://arxiv.org/abs/2606.16993) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AMAP-ML/DreamX-World)
 - **Orca**: "Orca: The World is in Your Mind". [![arXiv](https://img.shields.io/badge/arXiv-2606.30534-b31b1b.svg)](https://arxiv.org/abs/2606.30534) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://orca-wm.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/orca-wm/Orca)
+- **AlayaWorld v1.1**: "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)". [![arXiv](https://img.shields.io/badge/arXiv-2608.13492-b31b1b.svg)](https://arxiv.org/abs/2608.13492) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://alaya-lab.github.io/AlayaWorld/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AlayaLab/AlayaWorld)
+- **Alaya-EVOKE**: "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World". [![arXiv](https://img.shields.io/badge/arXiv-2608.13546-b31b1b.svg)](https://arxiv.org/abs/2608.13546) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://evoke-world.github.io/Evoke/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AlayaLab/Evoke)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
