@@ -1281,4 +1281,4 @@ If you find this repository useful, please consider citing this list:
 
 ---
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=knightnemo/Awesome-World-Models&type=Date)](https://www.star-history.com/#knightnemo/Awesome-World-Models&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=knightnemo/Awesome-World-Models&type=Date)](https://star-history.dera.page/#knightnemo/Awesome-World-Models&Date)
