@@ -91,6 +91,7 @@ Some other great blogposts on world models include:
   [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openenvision.github.io/WorldFoundry/)
   [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenEnvision/WorldFoundry)
 - **world-models.io**, "A structured knowledge platform for discovering and comparing AI world models across robotics, model-based reinforcement learning, simulation engines, embodied AI, and autonomous systems, with model profiles, comparisons, research, benchmarks, and a practical taxonomy." [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-models.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)
+- **World Models 101**, "A free interactive primer on world models. The phrase has covered at least five different machines since 2018, so this pulls the five apart and then works through how each one is built, from next-state prediction and latent dynamics to Dreamer, JEPA and video world simulators. Nine chapters, every figure interactive, also available as a single PDF." [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodels101.com/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NiluK/worldmodels101)
 
 ---
 ## Surveys of World Models
