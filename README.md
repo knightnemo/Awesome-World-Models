@@ -995,6 +995,7 @@ A recent trend of work is bridging highly-compressed semantic tokens (e.g. langu
 * **WALL-E**: "WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents". [![arXiv](https://img.shields.io/badge/arXiv-2504.15785-b31b1b.svg)](https://arxiv.org/abs/2504.15785) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/elated-sawyer/WALL-E)
 <!-- end inserted -->
 - **Puffin**: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation". [![arXiv](https://img.shields.io/badge/arXiv-2510.08673-b31b1b.svg)](https://arxiv.org/abs/2510.08673) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/) 
+- **IVT**: "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2608.15869-b31b1b.svg)](https://arxiv.org/abs/2608.15869) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zgzxy001.github.io/blog/internalized-visual-thinking.html)
 
 ### 6. Latent Space World Models
 While learning in the observation space (pixel, 3D mesh, language, etc.) is a common approach, for many applications (planning, policy evaluation, etc.) learning in latent space is sufficient or is believed to lead to even better performace.
