@@ -142,6 +142,7 @@ Pixel Space:
 - [⭐️] **Matrix-Game**, "Matrix-Game: Interactive World Foundation Model." [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](https://arxiv.org/abs/2506.18701) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game)
 - [⭐️] **Matrix-Game 2.0**, Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b.svg)](https://arxiv.org/abs/2508.13009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v2.github.io/)
 - [⭐️] **Matrix-Game 3.0**, "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2604.08995-b31b1b.svg)](https://arxiv.org/abs/2604.08995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3)
+- **Matrix-Game 3.5**, "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v3-5.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)
 - **RealPlay**, "From Virtual Games to Real-World Play". [![arXiv](https://img.shields.io/badge/arXiv-2506.18901-b31b1b.svg)](https://arxiv.org/abs/2506.18901) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenqsun.github.io/RealPlay/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wenqsun/Real-Play)
 - **GameFactory**, "GameFactory: Creating New Games with Generative Interactive Videos". [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](http://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/KwaiVGI/GameFactory)
 - **WORLDMEM**, "Worldmem: Long-term Consistent World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](http://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
@@ -301,6 +302,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - [⭐️] **Qwen-RobotWorld**, "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2606.17030-b31b1b.svg)](https://arxiv.org/abs/2606.17030) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://qwen.ai/blog?id=qwen-robotworld)
 - [⭐️] **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model". [![arXiv](https://img.shields.io/badge/arXiv-2607.11643-b31b1b.svg)](https://arxiv.org/abs/2607.11643) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-u0.html) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0)
 - **Masked Visual Actions**: "Masked Visual Actions for Unified World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2607.19343-b31b1b.svg)](https://arxiv.org/abs/2607.19343) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://masked-visual-actions.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/HadiZayer/masked-visual-actions)
+- **Hydra-0**: "Hydra-0: Action Flow for Generalist World Modeling and Control". [![arXiv](https://img.shields.io/badge/arXiv-2608.18077-b31b1b.svg)](https://arxiv.org/abs/2608.18077) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvidia-isaac.github.io/video_to_data/hydra-0/)
 
 
 ### 2. World Models for Manipulation
@@ -398,6 +400,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **DriftWorld**: "DriftWorld: Fast World Modeling through Drifting". [![arXiv](https://img.shields.io/badge/arXiv-2607.15065-b31b1b.svg)](https://arxiv.org/abs/2607.15065) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://susie-lu.github.io/driftworld/)
 - **Robot-Factored World Models**: "Robot-Factored World Models via Robot Rendering". [![arXiv](https://img.shields.io/badge/arXiv-2607.22535-b31b1b.svg)](https://arxiv.org/abs/2607.22535) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://bjkim95.github.io/rofacto/)
 - **DreamX-Phi 1.0**: "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2608.13489-b31b1b.svg)](https://arxiv.org/abs/2608.13489) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AMAP-ML/DreamX-Phi)
+- **EgoGenesis**: "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE". [![arXiv](https://img.shields.io/badge/arXiv-2607.28243-b31b1b.svg)](https://arxiv.org/abs/2607.28243)
 
 ### 3. World Models for Navigation
 - [⭐️] **NWM**, "Navigation World Models". [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
@@ -474,6 +477,7 @@ Loco-Manipulation:
 <!-- inserted -->
 * **Bridging the Sim-to-Real Gap**: "Bridging the Sim-to-Real Gap in Humanoid Dynamics via Learned Nonlinear Operators". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
+- **GigaBrain-WBC-0.5**: "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction". [![arXiv](https://img.shields.io/badge/arXiv-2608.18234-b31b1b.svg)](https://arxiv.org/abs/2608.18234)
 
 ### 5. World Models x VLAs
 Unifying World Models and VLAs in one model:
