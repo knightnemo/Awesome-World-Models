@@ -98,6 +98,7 @@ Some other great blogposts on world models include:
 ### 1. World Models and Video Generation:
 - [⭐️] **Is Sora a World Simulator**, "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond". [![arXiv](https://img.shields.io/badge/arXiv-2405.03520-b31b1b.svg)](https://arxiv.org/abs/2405.03520) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/GigaAI-research/General-World-Models-Survey)
 - **Physics Cognition in Video Generation**, "Exploring the Evolution of Physics Cognition in Video Generation: A Survey". [![arXiv](https://img.shields.io/badge/arXiv-2503.21765-b31b1b.svg)](https://arxiv.org/abs/2503.21765) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)
+- **From Generation to Simulation**, "From Generation to Simulation: How Far Are World Models from Being True Simulators?". [![arXiv](https://img.shields.io/badge/arXiv-2608.23070-b31b1b.svg)](https://arxiv.org/abs/2608.23070)
 
 ### 2. World Models and 3D Generation:
 - [⭐️] **3D and 4D World Modeling: A Survey**, "3D and 4D World Modeling: A Survey". [![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b.svg)](https://arxiv.org/abs/2509.07996)
@@ -303,6 +304,9 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - [⭐️] **Xiaomi-Robotics-U0**: "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model". [![arXiv](https://img.shields.io/badge/arXiv-2607.11643-b31b1b.svg)](https://arxiv.org/abs/2607.11643) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-u0.html) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0)
 - **Masked Visual Actions**: "Masked Visual Actions for Unified World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2607.19343-b31b1b.svg)](https://arxiv.org/abs/2607.19343) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://masked-visual-actions.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/HadiZayer/masked-visual-actions)
 - **Hydra-0**: "Hydra-0: Action Flow for Generalist World Modeling and Control". [![arXiv](https://img.shields.io/badge/arXiv-2608.18077-b31b1b.svg)](https://arxiv.org/abs/2608.18077) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvidia-isaac.github.io/video_to_data/hydra-0/)
+- **Zero-WAM**: "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization". [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103)
+- **WALL-SS**: "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression". [![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b.svg)](https://arxiv.org/abs/2608.26239)
+- **Riemann-1.0**: "Riemann-1.0: An Embodied World Action Model for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2608.27033-b31b1b.svg)](https://arxiv.org/abs/2608.27033)
 
 
 ### 2. World Models for Manipulation
@@ -1000,6 +1004,7 @@ A recent trend of work is bridging highly-compressed semantic tokens (e.g. langu
 <!-- end inserted -->
 - **Puffin**: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation". [![arXiv](https://img.shields.io/badge/arXiv-2510.08673-b31b1b.svg)](https://arxiv.org/abs/2510.08673) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/) 
 - **IVT**: "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2608.15869-b31b1b.svg)](https://arxiv.org/abs/2608.15869) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zgzxy001.github.io/blog/internalized-visual-thinking.html)
+- **Code World Model**: "Code World Model: Coding Agent as World Brain". [![arXiv](https://img.shields.io/badge/arXiv-2608.25927-b31b1b.svg)](https://arxiv.org/abs/2608.25927)
 
 ### 6. Latent Space World Models
 While learning in the observation space (pixel, 3D mesh, language, etc.) is a common approach, for many applications (planning, policy evaluation, etc.) learning in latent space is sufficient or is believed to lead to even better performace.
