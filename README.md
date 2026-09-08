@@ -307,6 +307,7 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **Zero-WAM**: "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization". [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103)
 - **WALL-SS**: "WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression". [![arXiv](https://img.shields.io/badge/arXiv-2608.26239-b31b1b.svg)](https://arxiv.org/abs/2608.26239)
 - **Riemann-1.0**: "Riemann-1.0: An Embodied World Action Model for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2608.27033-b31b1b.svg)](https://arxiv.org/abs/2608.27033)
+- **ZimaBlue**: "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training". [![arXiv](https://img.shields.io/badge/arXiv-2609.00188-b31b1b.svg)](https://arxiv.org/abs/2609.00188) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zimablue-wam.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ZimaBlue-WAM/ZimaBlue)
 
 
 ### 2. World Models for Manipulation
@@ -716,6 +717,7 @@ Interactive Video Generation:
 - **Alaya-EVOKE**: "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World". [![arXiv](https://img.shields.io/badge/arXiv-2608.13546-b31b1b.svg)](https://arxiv.org/abs/2608.13546) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://evoke-world.github.io/Evoke/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AlayaLab/Evoke)
 - [⭐️] **EchoWM**, "EchoWM: Open and Enterable Omnimodal World Models". [![arXiv](https://img.shields.io/badge/arXiv-2608.23189-b31b1b.svg)](https://arxiv.org/abs/2608.23189) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jd-opensource/JoyAI-Echo)
 - [⭐️] **JoyAI-Echo-1.5**, "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds". [![arXiv](https://img.shields.io/badge/arXiv-2608.23383-b31b1b.svg)](https://arxiv.org/abs/2608.23383) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/jd-opensource/JoyAI-Echo)
+- **SolarWM**: "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2609.02886-b31b1b.svg)](https://arxiv.org/abs/2609.02886) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://junchao-cs.github.io/SolarWM-Web/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Junchao-cs/SolarWM)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
@@ -1240,6 +1242,8 @@ Generation via World Model". [![arXiv](https://img.shields.io/badge/arXiv-2503.1
 - **CRONOS**, "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models". [![arXiv](https://img.shields.io/badge/arXiv-2605.23699-b31b1b.svg)](https://arxiv.org/abs/2605.23699)
 - **WBench**: "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation". [![arXiv](https://img.shields.io/badge/arXiv-2605.25874-b31b1b.svg)](https://arxiv.org/abs/2605.25874) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://meituan-longcat.github.io/WBench/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/meituan-longcat/WBench)
 - **WorldExam**: "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity". [![arXiv](https://img.shields.io/badge/arXiv-2608.02603-b31b1b.svg)](https://arxiv.org/abs/2608.02603) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldexam.github.io/)
+- **VeriPhy**: "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement". [![arXiv](https://img.shields.io/badge/arXiv-2609.03153-b31b1b.svg)](https://arxiv.org/abs/2609.03153) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://veriphy-ai.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/VeriPhy-AI/VeriPhy)
+- **WorldReward**: "WorldReward: Reward Modeling for Camera-Conditioned World Models". [![arXiv](https://img.shields.io/badge/arXiv-2609.03952-b31b1b.svg)](https://arxiv.org/abs/2609.03952) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://codegoat24.github.io/WorldReward/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/CodeGoat24/WorldReward)
 
 
 World Models in 3D Mesh Space:
