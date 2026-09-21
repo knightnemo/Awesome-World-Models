@@ -367,6 +367,12 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **Test-Time Scaling**: "Test-Time Scaling with World Models for Spatial Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney/)
 <!-- end inserted -->
 <!-- inserted -->
+- **FutureNav**, "FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation". [![arXiv](https://img.shields.io/badge/arXiv-2606.30367-b31b1b.svg)](https://arxiv.org/abs/2606.30367) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://linglingxiansen.github.io/FutureNav/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/linglingxiansen/FutureNav)
+<!-- end inserted -->
+<!-- inserted -->
+- **FSC-VLN**, "Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation". [![arXiv](https://img.shields.io/badge/arXiv-2607.18042-b31b1b.svg)](https://arxiv.org/abs/2607.18042)
+<!-- end inserted -->
+<!-- inserted -->
 * **Scaling Inference-Time Search**: "Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
 <!-- end inserted -->
 <!-- inserted -->
@@ -636,6 +642,15 @@ Interactive Video Generation:
 - [⭐️] **PAN**, "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation".  [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1b.svg)](https://arxiv.org/abs/2511.09057) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://panworld.ai/)
 - [⭐️] **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-world) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world/)
 - [⭐️] **DreamZero**, "DreamZero: World Action Models are Zero-shot Policies". [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/dreamzero0/dreamzero)
+<!-- inserted -->
+- [⭐️] **Fast-WAM**, "Fast-WAM: Do World Action Models Need Test-time Future Imagination?". [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yuantianyuan01/FastWAM)
+<!-- end inserted -->
+<!-- inserted -->
+- [⭐️] **Faster-WAM**, "Faster-WAM: Do World Action Models Need Deep Action Modules?". [![arXiv](https://img.shields.io/badge/arXiv-2608.02365-b31b1b.svg)](https://arxiv.org/abs/2608.02365)
+<!-- end inserted -->
+<!-- inserted -->
+- [⭐️] **Zero-WAM**, "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization". [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robbyant-research.github.io/Zero-WAM/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/robbyant-research/Zero-WAM)
+<!-- end inserted -->
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
