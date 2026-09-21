@@ -292,6 +292,8 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 * **RDAR**: "RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/EWM#tab-accept-oral) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://embodied-world-models.github.io/)
 <!-- end inserted -->
 
+* **DriveVA**: "DriveVA: Video Action Models are Zero-Shot Drivers". **`ECCV 2026`** [![Paper](https://img.shields.io/badge/Paper-ECCV_2026-b31b1b.svg)](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xiaomi-mlab/DriveVA)
+
 ## World Models for Embodied AI
 ### 1. Foundation Embodied World Models
 - [⭐️] **Genie Envisioner**: "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation". [![arXiv](https://img.shields.io/badge/arXiv-2508.05635-b31b1b.svg)](https://arxiv.org/abs/2508.05635) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://genie-envisioner.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/AgibotTech/Genie-Envisioner) 
