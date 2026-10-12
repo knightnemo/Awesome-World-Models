@@ -313,6 +313,10 @@ _Refer to https://github.com/LMD0311/Awesome-World-Model for full list._
 - **SyncWorld**: "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2609.09155-b31b1b.svg)](https://arxiv.org/abs/2609.09155) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/SyncWorld/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Embodied-AGI/SyncWorld)
 - **LeWAM**: "Latent evolving World Action Model". [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/XuejiFang/LeWAM)
 - **InternW0-Δ**: "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data". [![arXiv](https://img.shields.io/badge/arXiv-2609.31394-b31b1b.svg)](https://arxiv.org/abs/2609.31394) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://internrobotics.github.io/InternW0-Delta/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/InternRobotics/InternW0-Delta)
+- **VPP2**: "Video Prediction Policy 2: Predict Better, Act Better". [![arXiv](https://img.shields.io/badge/arXiv-2610.10270-b31b1b.svg)](https://arxiv.org/abs/2610.10270) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robert-gyj.github.io/video-prediction-policy-2/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/roboterax/video-prediction-policy-2)
+- **RoboJEPA**: "RoboJEPA: Scaling Robotic Latent World Models". [![arXiv](https://img.shields.io/badge/arXiv-2610.10515-b31b1b.svg)](https://arxiv.org/abs/2610.10515) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robojepa.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/facebookresearch/robo_jepa)
+- **Long-WAM**: "Long-WAM: Scaling the Context of World-Action Models". [![arXiv](https://img.shields.io/badge/arXiv-2610.10528-b31b1b.svg)](https://arxiv.org/abs/2610.10528) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/LongLive/Long-WAM/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NVlabs/LongLive/tree/main/Long-WAM)
+- **LeWAM (JEPA)**: "LeWAM: End-to-End World and Action Modeling with JEPAs". [![arXiv](https://img.shields.io/badge/arXiv-2610.12818-b31b1b.svg)](https://arxiv.org/abs/2610.12818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wam.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/MinghaoFu/lewam)
 
 
 ### 2. World Models for Manipulation
@@ -699,6 +703,7 @@ Social Science:
 <!-- inserted -->
 * **Utilizing World Models**: "Utilizing World Models for Adaptively Covariate Acquisition Under Limited Budget for Causal Decision Making Problem". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
 <!-- end inserted -->
+- **30,000 Hours of Ego-centric Video**: "What 30,000 Hours of Ego-centric Video Does Not Teach". [![arXiv](https://img.shields.io/badge/arXiv-2610.12464-b31b1b.svg)](https://arxiv.org/abs/2610.12464) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://fidelity-gap.github.io/)
 
 ## General Approaches to World Models
 ### 1. Foundation World Models
