@@ -80,6 +80,7 @@ Some other great blogposts on world models include:
 - **Status of World Models in 2025**, "Beyond the Hype: How I See World Models Evolving in 2025". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://knightnemo.github.io/blog/posts/wm_2025/)
 - [⭐️] **Jim Fan's tweet**. [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://x.com/DrJimFan/status/1709947595525951787)
 - [⭐️] **World Model Workshop at Montreal**, "Keynote: Yoshua Bengio, Yann Lecun, Jurgen Schmidhuber, Sherry Yang, Shirley Ho, etc. (Youtube Streamning included)". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-model-mila.github.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://medium.com/@zlf465074419/yann-lecun-world-model-insights-19c1234508c3)
+- **Consequence Models**, "Consequence models: AI that knows what happens next" (world models for agent actions: predict whether an action will work before running it, trained on execution outcomes). [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://scaledthought.com/blog/consequence-models)
 
 ---
 ## Tutorials & Starter Resources
