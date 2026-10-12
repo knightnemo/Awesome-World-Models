@@ -517,6 +517,7 @@ Unifying World Models and VLAs in one model:
 - [⭐️] **Motus**: "Motus: A Unified Latent Action World Model". [![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b.svg)](https://arxiv.org/abs/2512.13030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://motus-robotics.github.io/motus)
 - [⭐️] **mimic-video**: "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs". [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io)
 - **InternVLA-A1.5**, "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization". [![arXiv](https://img.shields.io/badge/arXiv-2607.04988-b31b1b.svg)](https://arxiv.org/abs/2607.04988) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://internrobotics.github.io/internvla-a15.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/InternRobotics/InternVLA-A-series)
+- **MolmoMotion**: "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction". [![arXiv](https://img.shields.io/badge/arXiv-2606.18558-b31b1b.svg)](https://arxiv.org/abs/2606.18558)
 
 
 Combining World Models and VLAs:
