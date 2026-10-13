@@ -1270,6 +1270,7 @@ World Models in 3D Mesh Space:
 
 World Models in other modalities:
 - "Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving". [![arXiv](https://img.shields.io/badge/arXiv-2508.01922-b31b1b.svg)](https://arxiv.org/abs/2508.01922) 
+- **OccStress**: "OccStress: Stress-Testing the 4D Occupancy Forecasting Chain" (NeurIPS 2026). [![arXiv](https://img.shields.io/badge/arXiv-2512.15621-b31b1b.svg)](https://arxiv.org/abs/2512.15621) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://insailab.org/OccStress/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/InSAI-Lab/OccStress)
 
 
 
