@@ -752,12 +752,16 @@ V-JEPA Series:
 Cosmos Series:
 - [⭐️] **Cosmos**, "Cosmos World Foundation Model Platform for Physical AI". [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575v1)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos)[![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.nvidia.com/en-us/ai/cosmos/)
 
+- [⭐️] **Cosmos Transfer1**, "Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control". [![arXiv](https://img.shields.io/badge/arXiv-2503.14492-b31b1b.svg)](https://arxiv.org/abs/2503.14492) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
 World-Lab Projects:
 - **Generating Worlds**, "Generating Worlds". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/generating-worlds)
 
 Other Awesome Models:
 - [⭐️] **Pandora**, "Pandora: Towards General World Model with Natural Language Actions and Video States". [![arXiv](https://img.shields.io/badge/arXiv-2406.09455-b31b1b.svg)](https://arxiv.org/abs/2406.09455) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/maitrix-org/Pandora)
 - [⭐️] **UniSim**, "UniSim: Learning Interactive Real-World Simulators". [![arXiv](https://img.shields.io/badge/arXiv-2310.06114-b31b1b.svg)](https://arxiv.org/abs/2310.06114) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-simulator.github.io/unisim/)<!-- inserted -->
+- **WorldGPT**: "WorldGPT: Empowering LLM as Multimodal World Model". [![arXiv](https://img.shields.io/badge/arXiv-2404.18202-b31b1b.svg)](https://arxiv.org/abs/2404.18202) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ZJU4EmbodiedAI/WorldGPT)
+
 * **Masked Generative Priors**: "Masked Generative Priors Improve World Models Sequence Modelling Capabilities". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
 <!-- end inserted -->
 <!-- inserted -->
