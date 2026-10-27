@@ -91,6 +91,7 @@ Some other great blogposts on world models include:
   [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openenvision.github.io/WorldFoundry/)
   [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenEnvision/WorldFoundry)
 - **world-models.io**, "A structured knowledge platform for discovering and comparing AI world models across robotics, model-based reinforcement learning, simulation engines, embodied AI, and autonomous systems, with model profiles, comparisons, research, benchmarks, and a practical taxonomy." [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-models.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)
+- **Simulusion**, "Simulusion: A PyTorch Library for World Models, with Dreamer, PlaNet, IRIS, DIAMOND, Genie, DiT and I-JEPA behind One API and Pretrained Checkpoints on the Hugging Face Hub". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://paramthakkar123.github.io/simulusion/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/ParamThakkar123/simulusion) [![Models](https://img.shields.io/badge/Models-HuggingFace-yellow)](https://huggingface.co/collections/simillusion/simulusion-demo-models-6ae0419992e0177bc1695362)
 
 ---
 ## Surveys of World Models
