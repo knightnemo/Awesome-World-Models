@@ -91,6 +91,7 @@ Some other great blogposts on world models include:
   [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openenvision.github.io/WorldFoundry/)
   [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/OpenEnvision/WorldFoundry)
 - **world-models.io**, "A structured knowledge platform for discovering and comparing AI world models across robotics, model-based reinforcement learning, simulation engines, embodied AI, and autonomous systems, with model profiles, comparisons, research, benchmarks, and a practical taxonomy." [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-models.io/) [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://world-models.io/en/timeline/practical-taxonomy-ai-world-models/)
+- **LightlySSL LeWM Tutorial**, "Train a World Model and Plan with It: train LeWorldModel on a small wall-and-door environment in about five minutes on one GPU, then plan to goal images with CEM". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://docs.lightly.ai/self-supervised-learning/tutorials/package/tutorial_lewm.html) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/lightly-ai/lightly)
 
 ---
 ## Surveys of World Models
