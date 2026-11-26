@@ -718,6 +718,7 @@ Social Science:
 * **Utilizing World Models**: "Utilizing World Models for Adaptively Covariate Acquisition Under Limited Budget for Causal Decision Making Problem". [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-8E44AD.svg)](https://openreview.net/group?id=ICLR.cc/2025/Workshop/World_Models#tab-accept) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/worldmodel-iclr2025/accepted-papers)
 <!-- end inserted -->
 - **30,000 Hours of Ego-centric Video**: "What 30,000 Hours of Ego-centric Video Does Not Teach". [![arXiv](https://img.shields.io/badge/arXiv-2610.12464-b31b1b.svg)](https://arxiv.org/abs/2610.12464) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://fidelity-gap.github.io/)
+- **Counterfactual World Models**: "Counterfactual World Models: JEPAs That Reason About \"What If\"". [![arXiv](https://img.shields.io/badge/arXiv-2611.24778-b31b1b.svg)](https://arxiv.org/abs/2611.24778) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/galilai-group/counterfactual-WM)
 
 ## General Approaches to World Models
 ### 1. Foundation World Models
@@ -749,6 +750,7 @@ Interactive Video Generation:
 - **HelixWorld**: "HelixWorld: A Real-time Interactive Audio-Visual World Model". [![arXiv](https://img.shields.io/badge/arXiv-2609.38123-b31b1b.svg)](https://arxiv.org/abs/2609.38123) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://helixworld.org/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NoizAI/HelixWorld)
 - **Oneira**: "Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models". [![arXiv](https://img.shields.io/badge/arXiv-2610.01614-b31b1b.svg)](https://arxiv.org/abs/2610.01614) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://madaoer.github.io/projects/oneira) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Madaoer/Oneira)
 - **AgiWorld**: "AgiWorld: An Agentic Video World Model for Building Persistent Worlds". [![arXiv](https://img.shields.io/badge/arXiv-2611.02341-b31b1b.svg)](https://arxiv.org/abs/2611.02341) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://bshfang.github.io/agiworld/)
+- [⭐️] **Genie 4**: "Genie 4 is now available". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/model-cards/genie-4/)
 
 3D Scene Generation: 
 - [⭐️] **RTFM**, "RTFM: A Real-Time Frame Model". [![Blog](https://img.shields.io/badge/Blog-Link-orange)](https://www.worldlabs.ai/blog/rtfm)
@@ -1053,6 +1055,7 @@ A recent trend of work is bridging highly-compressed semantic tokens (e.g. langu
 - **IVT**: "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2608.15869-b31b1b.svg)](https://arxiv.org/abs/2608.15869) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zgzxy001.github.io/blog/internalized-visual-thinking.html)
 - **Code World Model**: "Code World Model: Coding Agent as World Brain". [![arXiv](https://img.shields.io/badge/arXiv-2608.25927-b31b1b.svg)](https://arxiv.org/abs/2608.25927)
 - **Code as Worlds**: "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2608.27549-b31b1b.svg)](https://arxiv.org/abs/2608.27549) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mirros-lab.github.io/code-as-world)
+- **Code World Model 2.0**: "Code World Model 2.0: Towards Infinite Controllable Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2611.22925-b31b1b.svg)](https://arxiv.org/abs/2611.22925) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.inclusion-ai.org/CodeWorldModel/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/inclusionAI/CodeWorldModel)
 
 ### 6. Latent Space World Models
 While learning in the observation space (pixel, 3D mesh, language, etc.) is a common approach, for many applications (planning, policy evaluation, etc.) learning in latent space is sufficient or is believed to lead to even better performace.
